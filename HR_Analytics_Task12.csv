@@ -1,0 +1,1481 @@
+﻿EmpID,Age,Attrition,BusinessTravel,Department,Education,EducationField,Gender,JobLevel,JobRole,JobSatisfaction,MonthlyIncome,PerformanceRating,YearsAtCompany
+RM297,18,Yes,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,3,1420,3,0
+RM302,18,No,Travel_Rarely,Sales,3,Medical,Female,1,Sales Representative,3,1200,3,0
+RM458,18,Yes,Travel_Frequently,Sales,3,Marketing,Male,1,Sales Representative,2,1878,3,0
+RM728,18,No,Non-Travel,Research & Development,2,Life Sciences,Male,1,Research Scientist,4,1051,3,0
+RM829,18,Yes,Non-Travel,Research & Development,1,Medical,Male,1,Laboratory Technician,3,1904,3,0
+RM973,18,No,Non-Travel,Research & Development,3,Life Sciences,Female,1,Laboratory Technician,4,1611,3,0
+RM1154,18,Yes,Travel_Frequently,Sales,2,Medical,Female,1,Sales Representative,4,1569,3,0
+RM1312,18,No,Non-Travel,Research & Development,3,Medical,Female,1,Research Scientist,3,1514,3,0
+RM128,19,Yes,Travel_Rarely,Sales,1,Marketing,Male,1,Sales Representative,3,1675,3,0
+RM150,19,No,Travel_Rarely,Research & Development,1,Medical,Female,1,Laboratory Technician,2,1483,3,1
+RM172,19,Yes,Travel_Frequently,Sales,1,Technical Degree,Female,1,Sales Representative,1,2325,4,0
+RM178,19,Yes,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,4,1102,4,1
+RM423,19,Yes,Travel_Rarely,Human Resources,2,Technical Degree,Male,1,Human Resources,4,2564,3,1
+RM689,19,Yes,Travel_Rarely,Sales,3,Other,Male,1,Sales Representative,2,2121,3,1
+RM854,19,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Research Scientist,1,2552,4,1
+RM893,19,Yes,Non-Travel,Research & Development,3,Medical,Female,1,Research Scientist,2,1859,4,1
+RM910,19,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,4,2994,3,1
+RM103,20,Yes,Travel_Frequently,Research & Development,3,Life Sciences,Female,1,Laboratory Technician,4,2926,3,1
+RM488,20,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,2,2836,3,1
+RM514,20,Yes,Travel_Rarely,Research & Development,1,Medical,Male,1,Research Scientist,3,1009,3,1
+RM663,20,Yes,Travel_Rarely,Sales,3,Medical,Female,1,Sales Representative,3,2044,3,2
+RM690,20,Yes,Travel_Rarely,Research & Development,3,Technical Degree,Male,1,Laboratory Technician,1,2973,3,1
+RM732,20,Yes,Travel_Rarely,Research & Development,3,Medical,Female,1,Research Scientist,1,2600,3,1
+RM777,20,Yes,Travel_Frequently,Sales,3,Marketing,Female,1,Sales Representative,4,2323,3,2
+RM857,20,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,3,3033,3,2
+RM877,20,No,Travel_Rarely,Sales,3,Marketing,Male,1,Sales Representative,4,2678,3,2
+RM1179,20,No,Travel_Rarely,Sales,3,Medical,Female,1,Sales Representative,3,2783,3,2
+RM1198,20,No,Travel_Rarely,Sales,1,Life Sciences,Male,1,Sales Representative,1,2728,3,2
+RM024,21,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Research Scientist,4,1232,3,0
+RM275,21,No,Travel_Rarely,Research & Development,2,Medical,Male,1,Research Scientist,3,3230,3,3
+RM358,21,Yes,Travel_Frequently,Sales,1,Technical Degree,Female,1,Sales Representative,2,2174,3,3
+RM363,21,No,Non-Travel,Sales,2,Medical,Male,1,Sales Representative,4,2610,4,3
+RM371,21,Yes,Travel_Rarely,Sales,3,Life Sciences,Female,1,Sales Representative,2,2716,3,1
+RM497,21,No,Travel_Rarely,Sales,1,Technical Degree,Male,1,Sales Representative,3,3447,3,3
+RM664,21,Yes,Travel_Rarely,Research & Development,1,Other,Female,1,Research Scientist,4,2693,3,1
+RM778,21,Yes,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Laboratory Technician,1,1416,3,1
+RM816,21,No,Travel_Rarely,Research & Development,1,Technical Degree,Female,1,Research Scientist,2,2070,3,2
+RM916,21,Yes,Travel_Frequently,Research & Development,2,Life Sciences,Female,1,Laboratory Technician,3,2625,4,2
+RM1153,21,No,Travel_Rarely,Research & Development,1,Medical,Male,1,Research Scientist,4,3117,3,2
+RM1272,21,Yes,Travel_Rarely,Sales,1,Marketing,Male,1,Sales Representative,2,2679,3,1
+RM1437,21,No,Travel_Rarely,Sales,1,Medical,Male,1,Sales Representative,1,2380,3,2
+RM018,22,No,Non-Travel,Research & Development,2,Medical,Male,1,Laboratory Technician,4,2935,3,1
+RM110,22,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Laboratory Technician,4,2871,3,0
+RM129,22,No,Travel_Rarely,Research & Development,1,Technical Degree,Male,1,Laboratory Technician,4,2523,3,2
+RM161,22,No,Travel_Rarely,Research & Development,1,Medical,Male,1,Research Scientist,4,2323,4,2
+RM207,22,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,2,2328,3,4
+RM384,22,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Research Scientist,2,2244,3,2
+RM444,22,Yes,Travel_Frequently,Research & Development,1,Technical Degree,Male,1,Laboratory Technician,3,3894,3,2
+RM499,22,No,Travel_Rarely,Research & Development,1,Medical,Male,1,Research Scientist,3,2773,4,2
+RM631,22,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,2,Manufacturing Director,4,4775,4,2
+RM667,22,Yes,Travel_Rarely,Research & Development,1,Life Sciences,Female,2,Manufacturing Director,3,4171,3,3
+RM735,22,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,1,Laboratory Technician,1,2451,3,4
+RM861,22,Yes,Travel_Frequently,Research & Development,4,Life Sciences,Male,1,Research Scientist,4,2853,3,0
+RM1138,22,No,Non-Travel,Research & Development,2,Other,Female,1,Research Scientist,3,2814,3,4
+RM1274,22,Yes,Travel_Rarely,Research & Development,1,Medical,Female,1,Laboratory Technician,1,2398,3,1
+RM1340,22,Yes,Travel_Rarely,Research & Development,1,Life Sciences,Male,1,Research Scientist,2,2472,4,1
+RM1424,22,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Research Scientist,3,3375,3,3
+RM087,23,No,Travel_Rarely,Sales,1,Technical Degree,Male,1,Sales Representative,1,2322,3,0
+RM346,23,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,1,Research Scientist,4,2904,3,4
+RM517,23,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,1,2819,3,3
+RM551,23,No,Travel_Rarely,Research & Development,1,Medical,Male,1,Laboratory Technician,1,2500,3,4
+RM566,23,No,Travel_Rarely,Research & Development,1,Medical,Male,1,Research Scientist,3,3505,3,2
+RM586,23,Yes,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,1,1601,4,0
+RM911,23,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Research Scientist,3,1223,4,1
+RM1083,23,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,2,Laboratory Technician,3,2272,3,4
+RM1128,23,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,1,Research Scientist,3,2073,3,2
+RM1202,23,Yes,Travel_Rarely,Research & Development,1,Medical,Male,1,Laboratory Technician,3,3989,3,5
+RM1214,23,Yes,Travel_Rarely,Sales,3,Life Sciences,Male,1,Sales Representative,4,2275,4,3
+RM1239,23,No,Travel_Rarely,Research & Development,1,Medical,Female,1,Laboratory Technician,2,3295,3,3
+RM1409,23,No,Travel_Rarely,Research & Development,2,Other,Male,1,Laboratory Technician,4,2647,3,5
+RM1439,23,Yes,Travel_Frequently,Sales,3,Marketing,Male,1,Sales Representative,1,1790,3,1
+RM021,24,No,Non-Travel,Research & Development,2,Other,Female,2,Manufacturing Director,3,4011,3,4
+RM035,24,Yes,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,4,2293,3,2
+RM097,24,No,Travel_Rarely,Sales,2,Other,Female,2,Sales Executive,3,4999,4,3
+RM114,24,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,1,Laboratory Technician,3,2774,3,5
+RM381,24,No,Travel_Rarely,Sales,4,Marketing,Female,2,Sales Executive,3,4260,3,5
+RM415,24,Yes,Travel_Rarely,Sales,1,Technical Degree,Female,1,Sales Representative,2,3202,3,5
+RM471,24,No,Travel_Frequently,Sales,3,Medical,Male,1,Sales Representative,4,2400,3,2
+RM475,24,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,4,2725,3,6
+RM477,24,No,Travel_Rarely,Research & Development,2,Other,Male,1,Laboratory Technician,2,2127,4,1
+RM480,24,Yes,Travel_Frequently,Research & Development,3,Life Sciences,Female,1,Laboratory Technician,3,2886,3,6
+RM526,24,Yes,Travel_Rarely,Sales,2,Life Sciences,Female,2,Sales Executive,3,4577,3,2
+RM587,24,No,Non-Travel,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,2,2694,3,1
+RM641,24,No,Non-Travel,Research & Development,1,Life Sciences,Male,1,Laboratory Technician,4,3162,3,5
+RM725,24,No,Travel_Rarely,Research & Development,1,Medical,Female,2,Manufacturing Director,3,4377,3,4
+RM842,24,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,2,3597,4,4
+RM872,24,Yes,Travel_Rarely,Research & Development,2,Life Sciences,Female,1,Laboratory Technician,2,2210,3,1
+RM1026,24,No,Travel_Rarely,Sales,1,Medical,Female,2,Sales Executive,3,4162,3,5
+RM1061,24,Yes,Travel_Frequently,Research & Development,3,Medical,Male,1,Laboratory Technician,1,3172,3,0
+RM1062,24,No,Non-Travel,Sales,2,Life Sciences,Female,1,Sales Representative,2,2033,3,1
+RM1098,24,No,Travel_Rarely,Research & Development,2,Technical Degree,Male,1,Laboratory Technician,1,2296,3,1
+RM1169,24,No,Travel_Frequently,Research & Development,1,Technical Degree,Female,1,Research Scientist,4,3760,3,6
+RM1218,24,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,3,4401,3,5
+RM1223,24,Yes,Travel_Rarely,Human Resources,1,Human Resources,Male,1,Human Resources,3,1555,3,1
+RM1231,24,No,Travel_Rarely,Research & Development,1,Medical,Male,1,Laboratory Technician,1,3907,3,6
+RM1246,24,No,Travel_Frequently,Human Resources,3,Medical,Male,1,Human Resources,4,2145,3,2
+RM1408,24,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,2,Healthcare Representative,3,4617,3,4
+RM108,25,Yes,Travel_Rarely,Sales,3,Marketing,Male,2,Sales Executive,3,5744,3,6
+RM109,25,No,Travel_Rarely,Research & Development,1,Medical,Male,1,Research Scientist,4,2889,3,2
+RM139,25,No,Travel_Rarely,Sales,3,Life Sciences,Male,2,Sales Executive,3,8639,3,2
+RM256,25,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,2,Manufacturing Director,3,4898,3,4
+RM268,25,No,Non-Travel,Research & Development,2,Life Sciences,Male,2,Healthcare Representative,1,4000,3,6
+RM398,25,No,Travel_Rarely,Sales,2,Life Sciences,Female,2,Sales Executive,4,4487,3,5
+RM406,25,Yes,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,1,4031,3,2
+RM479,25,No,Travel_Rarely,Sales,1,Medical,Male,1,Sales Representative,3,2096,3,7
+RM518,25,No,Travel_Rarely,Sales,3,Life Sciences,Male,2,Sales Executive,2,4851,4,3
+RM564,25,No,Travel_Rarely,Sales,1,Medical,Female,2,Sales Executive,4,6180,4,6
+RM619,25,No,Travel_Rarely,Research & Development,1,Medical,Male,1,Research Scientist,1,3424,3,4
+RM635,25,No,Travel_Rarely,Sales,1,Other,Male,2,Sales Executive,1,4194,3,5
+RM639,25,No,Travel_Rarely,Sales,1,Marketing,Male,2,Sales Executive,1,4256,3,5
+RM684,25,Yes,Travel_Rarely,Sales,2,Marketing,Male,1,Sales Representative,2,2413,3,1
+RM797,25,Yes,Travel_Rarely,Research & Development,1,Technical Degree,Male,1,Laboratory Technician,4,3691,3,7
+RM886,25,No,Travel_Rarely,Sales,4,Life Sciences,Male,2,Sales Executive,4,4950,3,4
+RM912,25,Yes,Travel_Frequently,Sales,1,Life Sciences,Male,1,Sales Representative,4,1118,3,1
+RM935,25,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Research Scientist,2,2096,3,2
+RM966,25,No,Travel_Rarely,Research & Development,1,Medical,Male,1,Laboratory Technician,4,3669,3,3
+RM994,25,No,Travel_Rarely,Sales,1,Life Sciences,Male,2,Sales Executive,3,6232,3,3
+RM1004,25,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,1,Laboratory Technician,4,3229,3,3
+RM1022,25,Yes,Travel_Rarely,Sales,2,Life Sciences,Male,1,Sales Representative,1,4400,3,3
+RM1175,25,No,Travel_Frequently,Research & Development,1,Life Sciences,Male,2,Manufacturing Director,3,5206,3,7
+RM1412,25,No,Travel_Rarely,Human Resources,3,Human Resources,Female,1,Human Resources,2,2187,3,2
+RM1414,25,No,Travel_Rarely,Research & Development,1,Other,Male,1,Laboratory Technician,3,3977,3,2
+RM1434,25,No,Travel_Rarely,Sales,2,Other,Female,2,Sales Executive,3,4907,4,5
+RM043,26,Yes,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,3,2293,3,1
+RM055,26,No,Travel_Rarely,Sales,3,Marketing,Female,2,Sales Executive,4,4157,3,2
+RM126,26,No,Travel_Rarely,Research & Development,3,Other,Female,1,Research Scientist,2,2368,3,5
+RM135,26,No,Travel_Rarely,Human Resources,1,Life Sciences,Female,1,Human Resources,3,2942,4,8
+RM279,26,No,Travel_Frequently,Research & Development,3,Life Sciences,Female,2,Manufacturing Director,2,6397,4,6
+RM285,26,No,Travel_Frequently,Research & Development,2,Medical,Male,2,Healthcare Representative,1,4741,3,5
+RM289,26,Yes,Travel_Rarely,Research & Development,4,Medical,Male,1,Laboratory Technician,2,2373,3,3
+RM294,26,Yes,Travel_Rarely,Sales,4,Marketing,Male,2,Sales Executive,4,5828,3,8
+RM356,26,No,Travel_Rarely,Sales,3,Life Sciences,Male,2,Sales Executive,3,5296,3,8
+RM383,26,Yes,Travel_Frequently,Research & Development,1,Technical Degree,Male,1,Research Scientist,1,3102,4,6
+RM419,26,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,4,2886,4,3
+RM454,26,Yes,Travel_Frequently,Human Resources,4,Life Sciences,Female,1,Human Resources,3,2741,3,7
+RM461,26,No,Travel_Rarely,Sales,2,Medical,Male,2,Sales Executive,3,4306,3,0
+RM464,26,Yes,Travel_Rarely,Research & Development,3,Technical Degree,Male,1,Laboratory Technician,4,2340,3,1
+RM476,26,No,Travel_Rarely,Sales,2,Marketing,Male,2,Sales Executive,2,6272,4,5
+RM506,26,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Laboratory Technician,4,2659,3,3
+RM572,26,No,Travel_Frequently,Research & Development,2,Life Sciences,Female,1,Laboratory Technician,4,4364,3,2
+RM574,26,Yes,Travel_Rarely,Sales,3,Technical Degree,Male,2,Sales Executive,1,5326,3,4
+RM615,26,Yes,Travel_Frequently,Research & Development,2,Medical,Female,1,Research Scientist,3,2366,3,8
+RM686,26,No,Travel_Frequently,Sales,3,Medical,Male,2,Sales Executive,1,4294,3,7
+RM734,26,No,Travel_Rarely,Research & Development,2,Medical,Male,2,Manufacturing Director,4,5472,3,8
+RM749,26,Yes,Non-Travel,Sales,2,Medical,Male,2,Sales Executive,1,4969,3,2
+RM763,26,Yes,Travel_Frequently,Research & Development,3,Life Sciences,Male,1,Research Scientist,1,2042,3,3
+RM770,26,No,Travel_Frequently,Research & Development,1,Medical,Female,1,Research Scientist,3,2007,3,5
+RM782,26,No,Travel_Rarely,Research & Development,2,Medical,Male,1,Laboratory Technician,1,3955,3,5
+RM798,26,Yes,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,3,2377,4,1
+RM844,26,No,Travel_Rarely,Research & Development,4,Medical,Male,1,Laboratory Technician,4,4420,4,8
+RM913,26,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Research Scientist,4,2875,4,8
+RM999,26,No,Travel_Rarely,Research & Development,1,Medical,Male,1,Research Scientist,4,3904,3,4
+RM1005,26,No,Travel_Rarely,Research & Development,3,Other,Male,1,Laboratory Technician,1,3578,3,7
+RM1119,26,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,4,2061,4,1
+RM1207,26,No,Non-Travel,Research & Development,3,Medical,Male,1,Laboratory Technician,4,2570,4,7
+RM1225,26,No,Travel_Rarely,Research & Development,4,Medical,Male,1,Laboratory Technician,3,2305,3,3
+RM1298,26,Yes,Travel_Rarely,Human Resources,2,Medical,Female,1,Human Resources,2,2148,3,5
+RM1310,26,No,Travel_Rarely,Sales,3,Medical,Male,2,Sales Executive,4,4684,3,5
+RM1350,26,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,1,Research Scientist,3,2933,3,1
+RM1362,26,No,Travel_Frequently,Research & Development,3,Other,Male,1,Laboratory Technician,4,2544,3,7
+RM1387,26,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,1,2867,3,7
+RM1465,26,No,Travel_Rarely,Sales,3,Other,Female,1,Sales Representative,3,2966,3,4
+RM1465,26,No,Travel_Rarely,Sales,3,Other,Female,1,Sales Representative,3,2966,3,4
+RM005,27,No,Travel_Rarely,Research & Development,1,Medical,Male,1,Laboratory Technician,2,3468,3,2
+RM042,27,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Laboratory Technician,1,2341,3,1
+RM044,27,No,Travel_Frequently,Sales,3,Life Sciences,Male,3,Sales Executive,3,8726,3,9
+RM162,27,No,Non-Travel,Research & Development,3,Medical,Male,1,Research Scientist,2,2024,3,2
+RM165,27,No,Non-Travel,Research & Development,3,Medical,Male,1,Research Scientist,3,2566,3,1
+RM171,27,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,1,Research Scientist,2,3058,3,5
+RM192,27,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Research Scientist,2,2279,3,7
+RM201,27,No,Travel_Frequently,Research & Development,1,Technical Degree,Male,2,Manufacturing Director,1,4298,3,2
+RM213,27,No,Travel_Frequently,Sales,3,Life Sciences,Female,2,Sales Executive,3,9981,3,7
+RM319,27,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,2,2478,3,4
+RM321,27,No,Travel_Rarely,Sales,3,Life Sciences,Male,2,Sales Executive,3,4478,3,5
+RM332,27,No,Non-Travel,Sales,1,Marketing,Male,2,Sales Executive,2,6349,3,5
+RM340,27,No,Travel_Rarely,Sales,4,Marketing,Female,2,Sales Executive,2,6214,3,8
+RM374,27,No,Travel_Rarely,Research & Development,2,Medical,Male,1,Laboratory Technician,2,3816,3,5
+RM486,27,No,Travel_Rarely,Research & Development,4,Medical,Female,1,Research Scientist,3,2187,3,5
+RM496,27,Yes,Travel_Rarely,Sales,1,Marketing,Male,1,Sales Representative,1,3041,3,4
+RM513,27,No,Travel_Rarely,Research & Development,4,Medical,Male,1,Research Scientist,4,2045,3,4
+RM522,27,No,Travel_Frequently,Sales,1,Medical,Female,2,Sales Executive,4,4647,4,6
+RM531,27,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,3,Manufacturing Director,1,7412,3,9
+RM538,27,No,Travel_Frequently,Research & Development,2,Life Sciences,Male,3,Manufacturing Director,1,8793,4,9
+RM555,27,No,Travel_Rarely,Research & Development,3,Medical,Female,2,Healthcare Representative,1,6811,3,7
+RM577,27,No,Travel_Frequently,Sales,1,Marketing,Male,2,Sales Executive,4,4342,3,4
+RM611,27,No,Travel_Rarely,Research & Development,1,Technical Degree,Male,3,Research Director,4,12808,3,9
+RM616,27,No,Non-Travel,Research & Development,3,Medical,Male,1,Research Scientist,4,1706,3,0
+RM671,27,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,3,2318,3,1
+RM718,27,No,Travel_Rarely,Research & Development,4,Technical Degree,Female,1,Laboratory Technician,2,2811,3,2
+RM740,27,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,2,Manufacturing Director,4,4227,3,3
+RM787,27,No,Non-Travel,Research & Development,5,Life Sciences,Male,1,Laboratory Technician,3,4621,3,3
+RM834,27,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,3,2539,3,4
+RM890,27,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,1,2235,3,9
+RM903,27,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Research Scientist,3,2517,3,5
+RM971,27,No,Travel_Rarely,Sales,3,Medical,Female,1,Sales Representative,4,2534,3,1
+RM975,27,No,Travel_Frequently,Sales,1,Life Sciences,Male,2,Sales Executive,4,5071,4,6
+RM997,27,No,Travel_Rarely,Sales,3,Marketing,Female,2,Sales Executive,4,5769,3,6
+RM998,27,Yes,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Research Scientist,3,2394,3,8
+RM1018,27,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,1,Laboratory Technician,1,2099,3,5
+RM1150,27,No,Travel_Rarely,Research & Development,3,Other,Male,1,Laboratory Technician,1,4066,3,7
+RM1170,27,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Research Scientist,3,3517,3,3
+RM1171,27,No,Travel_Frequently,Research & Development,3,Medical,Male,1,Research Scientist,4,2580,3,4
+RM1249,27,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Research Scientist,4,3445,3,6
+RM1318,27,No,Travel_Frequently,Research & Development,2,Life Sciences,Female,1,Laboratory Technician,4,2379,3,5
+RM1329,27,No,Travel_Rarely,Sales,1,Medical,Female,2,Sales Representative,3,3540,4,9
+RM1335,27,No,Travel_Frequently,Research & Development,3,Life Sciences,Female,1,Research Scientist,1,4774,3,7
+RM1351,27,No,Travel_Rarely,Sales,2,Medical,Female,2,Sales Executive,3,6500,3,8
+RM1368,27,No,TravelRarely,Research & Development,4,Technical Degree,Male,1,Research Scientist,2,2226,3,5
+RM1380,27,Yes,Travel_Frequently,Human Resources,3,Human Resources,Female,1,Human Resources,2,2863,3,1
+RM1394,27,No,Travel_Rarely,Sales,3,Marketing,Male,2,Sales Executive,4,4105,3,7
+RM1468,27,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Manufacturing Director,2,6142,4,6
+RM1468,27,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Manufacturing Director,2,6142,4,6
+RM015,28,Yes,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,3,2028,3,4
+RM052,28,Yes,Travel_Rarely,Research & Development,4,Technical Degree,Male,1,Laboratory Technician,3,3441,3,2
+RM098,28,No,Non-Travel,Sales,3,Medical,Male,2,Sales Executive,3,4221,3,5
+RM163,28,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,4,2713,3,5
+RM265,28,Yes,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,3,3485,3,0
+RM273,28,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,4,2070,4,5
+RM290,28,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,1,Research Scientist,4,3310,4,5
+RM303,28,No,Travel_Rarely,Research & Development,2,Medical,Male,2,Healthcare Representative,1,5661,3,8
+RM324,28,Yes,Travel_Rarely,Research & Development,4,Medical,Male,1,Research Scientist,4,3464,3,3
+RM375,28,No,Travel_Rarely,Sales,4,Life Sciences,Male,2,Sales Executive,4,5253,3,7
+RM405,28,No,Travel_Rarely,Research & Development,2,Medical,Male,2,Laboratory Technician,1,4558,3,10
+RM541,28,Yes,Travel_Rarely,Research & Development,2,Life Sciences,Female,1,Research Scientist,2,2216,3,7
+RM599,28,Yes,Travel_Rarely,Research & Development,4,Medical,Male,1,Research Scientist,3,4382,3,2
+RM613,28,No,Travel_Rarely,Sales,4,Marketing,Female,2,Sales Executive,2,4779,4,8
+RM630,28,No,Travel_Rarely,Human Resources,2,Medical,Male,1,Human Resources,4,4936,3,5
+RM660,28,No,Travel_Rarely,Sales,4,Medical,Male,2,Sales Executive,4,4908,3,4
+RM669,28,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Research Scientist,3,2377,3,2
+RM765,28,No,Travel_Rarely,Sales,1,Medical,Male,1,Sales Representative,2,1052,4,1
+RM781,28,Yes,Non-Travel,Research & Development,2,Technical Degree,Male,3,Healthcare Representative,1,8722,3,10
+RM789,28,No,Travel_Rarely,Research & Development,3,Other,Female,2,Research Scientist,3,3660,3,8
+RM794,28,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Laboratory Technician,3,2207,3,4
+RM801,28,Yes,Travel_Frequently,Research & Development,3,Medical,Male,1,Laboratory Technician,2,2596,3,1
+RM810,28,No,Travel_Rarely,Research & Development,3,Medical,Female,3,Manufacturing Director,2,7655,3,9
+RM820,28,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,1,Research Scientist,2,3201,3,5
+RM828,28,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,1,Research Scientist,3,2703,3,3
+RM843,28,Yes,Travel_Rarely,Research & Development,1,Life Sciences,Female,1,Laboratory Technician,4,2515,3,1
+RM869,28,No,Travel_Rarely,Research & Development,4,Medical,Male,1,Laboratory Technician,1,3196,3,6
+RM922,28,No,Travel_Frequently,Research & Development,4,Medical,Male,1,Laboratory Technician,3,2154,3,4
+RM930,28,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,4,3867,3,2
+RM934,28,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,1,Research Scientist,1,2080,3,3
+RM945,28,No,Non-Travel,Research & Development,3,Life Sciences,Female,2,Laboratory Technician,4,6674,3,9
+RM985,28,No,Travel_Rarely,Sales,3,Life Sciences,Male,2,Sales Executive,1,4724,3,5
+RM1042,28,No,Travel_Rarely,Sales,3,Medical,Male,2,Sales Executive,1,8463,3,5
+RM1057,28,Yes,Travel_Frequently,Sales,3,Technical Degree,Male,1,Sales Representative,3,2909,3,3
+RM1069,28,Yes,Travel_Frequently,Research & Development,2,Medical,Male,1,Laboratory Technician,1,2561,3,0
+RM1070,28,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,3,1563,3,1
+RM1071,28,No,Travel_Frequently,Sales,3,Life Sciences,Male,2,Sales Executive,1,4898,3,4
+RM1074,28,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,2,Manufacturing Director,2,6549,3,8
+RM1137,28,Yes,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,2,2408,3,1
+RM1152,28,No,Travel_Rarely,Research & Development,3,Medical,Female,2,Manufacturing Director,1,4877,4,5
+RM1284,28,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,4,2044,3,5
+RM1308,28,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Research Scientist,1,3591,4,3
+RM1324,28,No,Non-Travel,Human Resources,2,Life Sciences,Male,1,Human Resources,4,2706,3,3
+RM1338,28,No,Travel_Rarely,Sales,3,Medical,Female,1,Sales Representative,2,2856,3,1
+RM1365,28,No,Travel_Frequently,Sales,2,Life Sciences,Male,2,Sales Executive,4,6834,3,7
+RM1370,28,Yes,Travel_Rarely,Sales,2,Marketing,Female,2,Sales Executive,3,9854,3,2
+RM1382,28,No,Non-Travel,Research & Development,3,Medical,Male,1,Research Scientist,3,2144,3,5
+RM1391,28,Yes,Travel_Rarely,Research & Development,3,Technical Degree,Male,1,Laboratory Technician,4,2367,3,4
+RM012,29,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,2,Laboratory Technician,3,4193,3,9
+RM016,29,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,3,Manufacturing Director,1,9980,3,10
+RM072,29,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,2,2703,4,5
+RM156,29,No,Non-Travel,Research & Development,1,Technical Degree,Male,2,Manufacturing Director,3,4319,3,10
+RM206,29,Yes,Travel_Rarely,Sales,3,Marketing,Female,3,Sales Executive,4,7639,4,10
+RM218,29,Yes,Travel_Rarely,Research & Development,3,Technical Degree,Male,1,Research Scientist,3,2058,3,6
+RM228,29,No,Travel_Frequently,Sales,1,Medical,Female,3,Sales Executive,4,7918,3,11
+RM230,29,Yes,Travel_Rarely,Research & Development,1,Medical,Male,1,Research Scientist,4,2389,3,4
+RM253,29,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,4,2340,3,6
+RM255,29,No,Travel_Rarely,Sales,2,Marketing,Male,2,Sales Executive,4,6931,3,3
+RM266,29,No,Travel_Rarely,Sales,3,Medical,Male,2,Sales Executive,2,6644,3,0
+RM283,29,No,Travel_Frequently,Sales,2,Life Sciences,Male,2,Sales Executive,4,4554,3,10
+RM337,29,Yes,Travel_Rarely,Research & Development,4,Other,Male,1,Laboratory Technician,1,2119,3,7
+RM338,29,No,Travel_Rarely,Research & Development,5,Other,Male,1,Laboratory Technician,4,3983,3,3
+RM344,29,No,Travel_Rarely,Sales,1,Marketing,Female,2,Sales Executive,2,8268,3,7
+RM350,29,No,Non-Travel,Sales,3,Life Sciences,Male,2,Sales Executive,3,4649,3,4
+RM372,29,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,4,2201,3,3
+RM421,29,No,Travel_Rarely,Research & Development,4,Medical,Male,3,Research Director,3,11935,3,10
+RM422,29,Yes,Travel_Rarely,Research & Development,5,Technical Degree,Female,1,Research Scientist,2,2546,3,2
+RM455,29,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,2,Manufacturing Director,4,4262,3,3
+RM508,29,No,Travel_Rarely,Sales,2,Medical,Female,2,Sales Executive,3,5561,3,6
+RM520,29,No,Travel_Frequently,Research & Development,4,Life Sciences,Male,1,Research Scientist,4,2720,3,10
+RM547,29,No,Travel_Rarely,Sales,3,Life Sciences,Male,1,Sales Representative,3,2642,3,1
+RM556,29,No,Travel_Rarely,Sales,3,Marketing,Male,1,Sales Representative,2,2297,3,2
+RM573,29,No,Travel_Rarely,Research & Development,3,Medical,Female,2,Healthcare Representative,3,4335,3,8
+RM590,29,Yes,Travel_Rarely,Research & Development,2,Life Sciences,Female,1,Laboratory Technician,1,2319,3,1
+RM595,29,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Research Scientist,3,2700,4,10
+RM646,29,Yes,Travel_Rarely,Sales,3,Medical,Female,1,Sales Representative,3,2800,3,3
+RM658,29,No,Travel_Rarely,Research & Development,1,Medical,Female,1,Laboratory Technician,4,2532,3,4
+RM698,29,No,Travel_Frequently,Sales,3,Technical Degree,Female,1,Sales Representative,4,2157,3,3
+RM712,29,Yes,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,1,2404,4,0
+RM809,29,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Research Scientist,4,2514,4,7
+RM824,29,No,Travel_Frequently,Research & Development,3,Life Sciences,Female,1,Research Scientist,2,3291,3,7
+RM826,29,No,Travel_Rarely,Research & Development,1,Medical,Male,2,Manufacturing Director,4,5056,3,10
+RM837,29,Yes,Travel_Rarely,Sales,1,Life Sciences,Female,3,Sales Executive,1,7336,3,11
+RM853,29,No,Travel_Rarely,Research & Development,1,Medical,Female,1,Laboratory Technician,4,3131,3,10
+RM860,29,No,Travel_Rarely,Research & Development,1,Life Sciences,Female,1,Research Scientist,4,2168,3,5
+RM894,29,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,4,3760,3,3
+RM904,29,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Healthcare Representative,4,6623,3,6
+RM906,29,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,4,Research Director,4,16124,3,7
+RM933,29,Yes,Travel_Rarely,Research & Development,3,Technical Degree,Female,1,Laboratory Technician,3,3339,3,7
+RM1006,29,No,Travel_Rarely,Human Resources,3,Other,Male,3,Human Resources,1,7988,3,10
+RM1008,29,Yes,Travel_Frequently,Research & Development,1,Other,Female,3,Healthcare Representative,4,7553,3,8
+RM1058,29,Yes,Travel_Frequently,Sales,3,Technical Degree,Female,2,Sales Executive,2,5765,3,5
+RM1064,29,No,Travel_Rarely,Sales,3,Life Sciences,Male,2,Sales Executive,3,8620,3,10
+RM1073,29,No,Travel_Frequently,Research & Development,1,Life Sciences,Female,1,Laboratory Technician,2,3180,3,3
+RM1078,29,Yes,Travel_Rarely,Research & Development,4,Technical Degree,Male,1,Research Scientist,1,2362,3,9
+RM1091,29,No,Travel_Rarely,Research & Development,1,Other,Female,2,Healthcare Representative,1,9715,3,7
+RM1105,29,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,3,2451,3,1
+RM1123,29,No,Travel_Rarely,Research & Development,1,Medical,Male,1,Laboratory Technician,1,4723,3,10
+RM1126,29,No,Travel_Frequently,Research & Development,1,Life Sciences,Male,2,Healthcare Representative,4,8853,3,6
+RM1173,29,No,Travel_Rarely,Sales,3,Medical,Male,2,Sales Executive,3,5869,3,5
+RM1189,29,No,Travel_Rarely,Sales,3,Medical,Male,2,Sales Executive,2,4187,3,10
+RM1220,29,No,Travel_Rarely,Research & Development,4,Medical,Female,1,Laboratory Technician,3,2974,3,5
+RM1250,29,Yes,Travel_Rarely,Sales,3,Marketing,Female,1,Sales Representative,2,2760,3,2
+RM1251,29,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,2,Healthcare Representative,3,6294,3,3
+RM1259,29,No,Travel_Rarely,Research & Development,3,Technical Degree,Female,1,Research Scientist,1,2109,3,1
+RM1314,29,Yes,Travel_Rarely,Human Resources,3,Human Resources,Male,1,Human Resources,1,2335,3,2
+RM1319,29,No,Travel_Frequently,Research & Development,1,Medical,Male,1,Laboratory Technician,4,3812,3,11
+RM1325,29,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,2,Healthcare Representative,3,6384,3,7
+RM1330,29,No,TravelRarely,Human Resources,1,Medical,Male,1,Human Resources,2,2804,3,1
+RM1333,29,Yes,Travel_Frequently,Research & Development,2,Life Sciences,Male,1,Research Scientist,4,2439,4,1
+RM1344,29,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,1,2062,3,3
+RM1366,29,Yes,Travel_Frequently,Sales,3,Technical Degree,Male,1,Sales Representative,1,1091,3,1
+RM1388,29,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Healthcare Representative,1,5373,3,5
+RM1443,29,Yes,Travel_Rarely,Research & Development,4,Medical,Male,1,Research Scientist,4,4787,3,2
+RM1460,29,No,Travel_Rarely,Research & Development,2,Other,Male,2,Laboratory Technician,2,4025,3,4
+RM1461,29,No,Travel_Rarely,Research & Development,4,Medical,Female,1,Research Scientist,1,3785,3,5
+RM1461,29,No,Travel_Rarely,Research & Development,4,Medical,Female,1,Research Scientist,1,3785,3,5
+RM008,30,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,1,Laboratory Technician,3,2693,4,1
+RM033,30,No,Travel_Rarely,Research & Development,2,Medical,Male,1,Laboratory Technician,3,2206,3,10
+RM045,30,No,Travel_Frequently,Research & Development,2,Medical,Female,2,Laboratory Technician,4,4011,4,12
+RM081,30,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,2,Laboratory Technician,4,5126,3,10
+RM089,30,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Healthcare Representative,4,4152,3,11
+RM093,30,No,Travel_Rarely,Sales,2,Medical,Female,2,Sales Executive,2,5209,3,11
+RM121,30,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,1,Research Scientist,3,2613,4,10
+RM140,30,No,Travel_Rarely,Human Resources,3,Human Resources,Male,2,Human Resources,4,6347,3,11
+RM144,30,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,3,2632,3,5
+RM146,30,No,Travel_Rarely,Research & Development,3,Technical Degree,Female,1,Research Scientist,1,3204,3,3
+RM147,30,No,Travel_Rarely,Research & Development,1,Medical,Male,1,Laboratory Technician,4,2720,3,5
+RM168,30,No,Travel_Rarely,Sales,3,Life Sciences,Female,3,Sales Executive,4,9419,3,10
+RM174,30,No,Non-Travel,Research & Development,3,Medical,Male,2,Laboratory Technician,1,3072,3,12
+RM212,30,No,Non-Travel,Research & Development,1,Life Sciences,Male,3,Manufacturing Director,3,8474,4,11
+RM215,30,Yes,Travel_Rarely,Research & Development,3,Technical Degree,Female,1,Research Scientist,1,2657,3,5
+RM217,30,Yes,Travel_Frequently,Sales,4,Marketing,Female,2,Sales Executive,1,6696,3,6
+RM325,30,No,Travel_Rarely,Research & Development,2,Medical,Female,2,Research Scientist,4,5775,3,10
+RM339,30,No,Travel_Rarely,Sales,3,Marketing,Female,2,Sales Executive,3,6118,3,10
+RM355,30,No,Non-Travel,Sales,2,Technical Degree,Female,2,Sales Executive,3,4736,3,2
+RM382,30,No,Travel_Rarely,Sales,1,Technical Degree,Male,1,Sales Representative,2,2476,3,1
+RM386,30,Yes,Travel_Frequently,Research & Development,3,Technical Degree,Male,1,Research Scientist,4,2285,4,1
+RM403,30,No,Travel_Rarely,Sales,3,Technical Degree,Female,2,Sales Executive,3,6577,3,5
+RM411,30,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,2,Manufacturing Director,4,6091,4,5
+RM420,30,No,Non-Travel,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,4,2097,3,5
+RM424,30,No,Non-Travel,Sales,4,Other,Female,3,Sales Executive,1,8412,3,9
+RM427,30,No,Non-Travel,Research & Development,3,Medical,Female,1,Laboratory Technician,4,2564,3,11
+RM438,30,No,Travel_Rarely,Sales,1,Marketing,Male,1,Sales Representative,2,2983,3,3
+RM481,30,Yes,Travel_Frequently,Sales,4,Life Sciences,Male,1,Sales Representative,1,2033,3,1
+RM502,30,No,Travel_Frequently,Research & Development,3,Medical,Female,1,Research Scientist,3,2083,4,1
+RM546,30,No,Travel_Rarely,Sales,5,Marketing,Male,2,Sales Executive,4,5304,4,8
+RM582,30,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,3,3833,4,2
+RM603,30,No,Travel_Rarely,Research & Development,3,Medical,Female,2,Manufacturing Director,4,6877,4,0
+RM624,30,No,Travel_Frequently,Research & Development,4,Life Sciences,Male,1,Research Scientist,4,3761,3,5
+RM703,30,No,Travel_Rarely,Sales,2,Other,Male,3,Sales Executive,3,7264,3,8
+RM721,30,Yes,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,3,2132,3,5
+RM731,30,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,3,Research Director,1,11416,3,8
+RM733,30,Yes,Travel_Frequently,Research & Development,3,Medical,Female,1,Laboratory Technician,2,2422,3,3
+RM783,30,No,Travel_Rarely,Research & Development,3,Other,Male,2,Manufacturing Director,1,9957,3,6
+RM845,30,No,Travel_Rarely,Sales,3,Marketing,Male,2,Sales Executive,3,6578,3,10
+RM866,30,No,Travel_Rarely,Sales,4,Life Sciences,Male,2,Sales Executive,1,4115,3,4
+RM875,30,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Laboratory Technician,3,3491,3,10
+RM887,30,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,2,3579,4,11
+RM932,30,No,Non-Travel,Research & Development,2,Medical,Female,2,Manufacturing Director,3,4695,3,8
+RM942,30,No,Travel_Rarely,Research & Development,3,Technical Degree,Female,2,Laboratory Technician,4,4627,3,9
+RM949,30,No,Travel_Rarely,Research & Development,4,Medical,Female,3,Manager,1,11916,4,9
+RM1014,30,No,Travel_Rarely,Sales,4,Marketing,Female,2,Sales Executive,1,4779,3,3
+RM1050,30,No,Travel_Rarely,Sales,1,Life Sciences,Male,2,Sales Executive,3,5301,3,2
+RM1053,30,No,Non-Travel,Research & Development,3,Technical Degree,Male,1,Research Scientist,3,1274,3,1
+RM1065,30,No,Travel_Rarely,Human Resources,3,Life Sciences,Male,1,Human Resources,3,2064,4,5
+RM1107,30,Yes,Travel_Rarely,Sales,3,Life Sciences,Male,2,Sales Executive,1,9714,3,10
+RM1110,30,No,Travel_Rarely,Sales,4,Technical Degree,Male,3,Sales Executive,2,9250,3,4
+RM1142,30,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,2,2141,3,6
+RM1234,30,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,1,Research Scientist,4,2862,3,10
+RM1245,30,No,Travel_Frequently,Research & Development,4,Technical Degree,Female,1,Research Scientist,1,4968,3,9
+RM1247,30,Yes,Travel_Frequently,Human Resources,3,Human Resources,Female,1,Human Resources,4,2180,3,4
+RM1252,30,No,Travel_Rarely,Sales,2,Marketing,Male,3,Sales Executive,1,7140,3,7
+RM1260,30,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Healthcare Representative,3,5294,3,7
+RM1297,30,No,Travel_Rarely,Research & Development,3,Medical,Female,3,Manufacturing Director,3,9667,3,7
+RM1339,30,Yes,Travel_Rarely,Sales,3,Medical,Male,1,Sales Representative,4,1081,3,1
+RM1413,30,No,Travel_Rarely,Research & Development,2,Medical,Male,1,Laboratory Technician,2,3748,3,12
+RM013,31,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,1,Research Scientist,3,2911,3,5
+RM059,31,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Laboratory Technician,4,5915,4,7
+RM073,31,No,Travel_Rarely,Research & Development,4,Medical,Male,1,Research Scientist,2,2501,3,1
+RM076,31,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,2,Manufacturing Director,4,4424,4,11
+RM125,31,Yes,Travel_Rarely,Sales,4,Life Sciences,Male,2,Sales Executive,3,6172,3,7
+RM133,31,Yes,Travel_Rarely,Sales,3,Life Sciences,Female,2,Sales Executive,3,4559,3,2
+RM181,31,No,Travel_Rarely,Research & Development,1,Medical,Female,1,Research Scientist,4,3929,4,4
+RM225,31,No,Non-Travel,Research & Development,4,Medical,Male,2,Manufacturing Director,3,4345,3,5
+RM246,31,No,Travel_Frequently,Research & Development,4,Medical,Male,3,Research Director,3,13675,3,2
+RM260,31,Yes,Travel_Frequently,Research & Development,2,Medical,Male,1,Laboratory Technician,2,3479,3,5
+RM267,31,No,Travel_Rarely,Research & Development,3,Medical,Male,2,Healthcare Representative,4,5582,4,9
+RM293,31,No,Travel_Frequently,Sales,3,Marketing,Female,1,Sales Representative,2,2789,3,2
+RM304,31,No,Travel_Rarely,Sales,3,Technical Degree,Male,2,Sales Executive,4,6929,3,8
+RM310,31,No,Travel_Rarely,Research & Development,4,Technical Degree,Male,1,Research Scientist,4,4821,3,5
+RM311,31,No,Travel_Rarely,Human Resources,3,Human Resources,Male,2,Human Resources,1,6410,3,2
+RM313,31,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Research Scientist,4,2695,3,2
+RM322,31,No,Travel_Rarely,Sales,3,Marketing,Male,2,Sales Executive,4,7547,3,7
+RM326,31,No,Travel_Frequently,Research & Development,2,Life Sciences,Female,3,Manufacturing Director,3,8943,4,10
+RM343,31,No,Travel_Rarely,Research & Development,4,Medical,Female,3,Manufacturing Director,4,7143,3,11
+RM370,31,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Research Scientist,2,2657,3,2
+RM395,31,No,Travel_Rarely,Research & Development,2,Medical,Female,2,Manufacturing Director,1,4306,3,13
+RM400,31,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Laboratory Technician,1,2218,3,4
+RM435,31,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,3,Manufacturing Director,2,10648,4,13
+RM440,31,Yes,Travel_Frequently,Research & Development,3,Life Sciences,Male,3,Healthcare Representative,3,9824,3,1
+RM451,31,No,Travel_Rarely,Sales,1,Life Sciences,Male,2,Sales Executive,4,6582,3,6
+RM457,31,No,Travel_Rarely,Sales,3,Life Sciences,Male,3,Manager,4,11557,4,5
+RM483,31,Yes,Travel_Rarely,Sales,4,Medical,Male,2,Sales Executive,1,4233,3,3
+RM485,31,No,Travel_Rarely,Sales,4,Medical,Male,2,Sales Executive,4,5460,4,7
+RM645,31,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Research Scientist,4,2356,3,6
+RM676,31,No,Travel_Rarely,Sales,4,Life Sciences,Male,1,Sales Representative,3,2329,3,7
+RM680,31,No,Non-Travel,Sales,2,Marketing,Female,2,Sales Executive,3,6932,3,9
+RM691,31,No,Travel_Rarely,Research & Development,3,Medical,Female,2,Healthcare Representative,4,5855,3,9
+RM710,31,Yes,Non-Travel,Research & Development,2,Medical,Male,1,Research Scientist,1,2321,4,3
+RM727,31,No,Travel_Frequently,Research & Development,1,Life Sciences,Female,2,Manufacturing Director,1,4148,3,4
+RM819,31,No,Travel_Frequently,Sales,3,Life Sciences,Male,1,Sales Representative,4,2791,3,2
+RM832,31,Yes,Travel_Frequently,Research & Development,3,Medical,Male,1,Laboratory Technician,3,2610,3,2
+RM896,31,No,Travel_Rarely,Research & Development,2,Medical,Male,2,Healthcare Representative,1,6833,3,6
+RM897,31,No,Travel_Rarely,Research & Development,3,Medical,Female,2,Healthcare Representative,1,6812,3,10
+RM951,31,No,Non-Travel,Sales,4,Life Sciences,Female,3,Sales Executive,3,9852,3,10
+RM953,31,Yes,Travel_Frequently,Sales,3,Life Sciences,Female,1,Sales Representative,2,2302,3,3
+RM981,31,Yes,Travel_Frequently,Sales,3,Life Sciences,Female,1,Sales Representative,4,2785,3,1
+RM986,31,Yes,Travel_Rarely,Research & Development,4,Medical,Male,2,Manufacturing Director,3,6179,3,10
+RM1013,31,Yes,Travel_Frequently,Sales,4,Life Sciences,Female,1,Sales Representative,3,1359,3,1
+RM1015,31,No,Travel_Rarely,Research & Development,5,Life Sciences,Female,4,Research Director,2,16422,3,3
+RM1017,31,Yes,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,2,1261,3,1
+RM1031,31,No,Travel_Rarely,Sales,2,Life Sciences,Male,3,Sales Executive,4,10793,3,13
+RM1034,31,Yes,Travel_Frequently,Research & Development,5,Life Sciences,Female,3,Manufacturing Director,2,7446,3,10
+RM1036,31,No,Travel_Rarely,Human Resources,2,Medical,Female,1,Human Resources,2,2109,3,3
+RM1037,31,Yes,Travel_Frequently,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,4,3722,3,2
+RM1086,31,Yes,Travel_Frequently,Research & Development,3,Life Sciences,Female,1,Research Scientist,3,4084,3,7
+RM1145,31,No,Travel_Frequently,Sales,4,Other,Male,2,Sales Executive,1,5332,3,5
+RM1192,31,No,Travel_Rarely,Sales,4,Life Sciences,Female,2,Sales Executive,4,5476,3,10
+RM1228,31,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,3,3477,3,5
+RM1240,31,No,Travel_Frequently,Research & Development,1,Technical Degree,Female,2,Manufacturing Director,4,5238,4,5
+RM1248,31,No,Travel_Rarely,Sales,3,Technical Degree,Male,2,Sales Executive,3,8346,3,5
+RM1258,31,Yes,Travel_Rarely,Sales,4,Marketing,Male,3,Sales Executive,3,8161,3,1
+RM1275,31,No,Travel_Rarely,Sales,4,Marketing,Female,2,Sales Executive,4,5468,3,12
+RM1307,31,No,Travel_Frequently,Sales,4,Marketing,Female,3,Sales Executive,1,9637,3,3
+RM1313,31,Yes,Travel_Rarely,Human Resources,5,Human Resources,Male,1,Human Resources,1,2956,3,1
+RM1342,31,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Laboratory Technician,3,4197,3,10
+RM1359,31,No,Travel_Rarely,Sales,2,Medical,Female,2,Sales Executive,4,6583,3,5
+RM1361,31,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Laboratory Technician,3,3978,3,2
+RM1383,31,No,Non-Travel,Research & Development,2,Medical,Male,1,Research Scientist,1,3065,3,4
+RM1390,31,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,2,Research Scientist,1,5003,4,10
+RM1396,31,Yes,Travel_Frequently,Sales,4,Marketing,Male,2,Sales Executive,4,5617,3,10
+RM1403,31,No,Travel_Rarely,Research & Development,1,Medical,Female,1,Laboratory Technician,4,1129,3,1
+RM1406,31,No,Non-Travel,Research & Development,3,Medical,Female,3,Research Director,3,11031,4,11
+RM1418,31,No,Travel_Rarely,Sales,2,Life Sciences,Male,1,Sales Representative,3,3067,3,2
+RM1464,31,No,Non-Travel,Research & Development,3,Medical,Male,2,Manufacturing Director,1,9936,3,9
+RM1464,31,No,Non-Travel,Research & Development,3,Medical,Male,2,Manufacturing Director,1,9936,3,9
+RM006,32,No,Travel_Frequently,Research & Development,2,Life Sciences,Male,1,Laboratory Technician,4,3068,3,7
+RM017,32,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Research Scientist,2,3298,3,6
+RM027,32,Yes,Travel_Frequently,Research & Development,1,Life Sciences,Female,1,Research Scientist,1,3919,4,10
+RM061,32,No,Travel_Rarely,Research & Development,3,Medical,Male,2,Manufacturing Director,4,6162,4,9
+RM074,32,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Research Scientist,2,6220,3,10
+RM095,32,No,Travel_Rarely,Sales,4,Medical,Male,2,Sales Executive,3,5010,3,11
+RM102,32,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,1,Research Scientist,1,2956,3,1
+RM141,32,Yes,Travel_Rarely,Research & Development,3,Medical,Female,1,Laboratory Technician,1,4200,4,5
+RM145,32,No,Travel_Frequently,Sales,2,Medical,Male,2,Sales Executive,4,4668,3,8
+RM155,32,No,Travel_Frequently,Sales,3,Marketing,Female,3,Sales Executive,4,8998,3,9
+RM170,32,No,Travel_Rarely,Research & Development,5,Life Sciences,Male,1,Research Scientist,3,3038,4,5
+RM211,32,Yes,Travel_Rarely,Sales,4,Medical,Male,3,Sales Executive,4,10400,3,14
+RM239,32,No,Travel_Rarely,Sales,2,Life Sciences,Female,1,Sales Representative,2,3931,3,4
+RM240,32,Yes,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,3,3730,3,3
+RM242,32,No,Non-Travel,Sales,4,Marketing,Male,2,Sales Executive,4,4465,3,3
+RM261,32,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,2,2794,4,5
+RM263,32,No,Travel_Rarely,Research & Development,1,Technical Degree,Male,2,Laboratory Technician,1,2176,3,6
+RM307,32,No,Travel_Rarely,Sales,3,Life Sciences,Male,2,Sales Executive,3,5484,3,13
+RM320,32,No,Travel_Rarely,Sales,2,Technical Degree,Female,2,Sales Executive,2,5228,3,13
+RM323,32,No,Travel_Rarely,Research & Development,4,Medical,Female,2,Research Scientist,4,5055,3,7
+RM352,32,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Laboratory Technician,2,2370,3,8
+RM470,32,Yes,Non-Travel,Sales,4,Other,Male,2,Sales Executive,3,4707,3,4
+RM501,32,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,2,Research Scientist,4,6322,3,6
+RM528,32,No,Travel_Rarely,Sales,3,Marketing,Male,2,Sales Executive,4,5396,3,10
+RM532,32,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,3,Research Director,4,11159,3,7
+RM559,32,No,Travel_Frequently,Research & Development,4,Life Sciences,Male,2,Laboratory Technician,4,5309,3,10
+RM601,32,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,2,Manufacturing Director,3,6162,3,14
+RM623,32,No,Travel_Rarely,Sales,4,Life Sciences,Male,2,Sales Executive,4,4403,3,5
+RM627,32,No,Travel_Rarely,Research & Development,2,Medical,Female,2,Research Scientist,3,5175,3,5
+RM638,32,No,Non-Travel,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,4,2314,3,3
+RM642,32,No,Travel_Frequently,Sales,2,Life Sciences,Male,2,Sales Executive,2,6524,3,10
+RM657,32,Yes,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,4,2795,4,1
+RM683,32,No,Non-Travel,Research & Development,3,Life Sciences,Female,1,Laboratory Technician,2,2332,4,3
+RM693,32,No,Travel_Rarely,Research & Development,4,Medical,Female,2,Manufacturing Director,1,6725,3,8
+RM757,32,No,Non-Travel,Research & Development,4,Medical,Female,1,Laboratory Technician,3,4025,3,8
+RM851,32,No,Non-Travel,Sales,1,Life Sciences,Female,1,Sales Representative,1,2827,3,1
+RM881,32,No,Travel_Frequently,Research & Development,3,Other,Female,1,Laboratory Technician,2,2743,4,2
+RM882,32,No,Travel_Frequently,Research & Development,2,Life Sciences,Female,2,Research Scientist,3,4998,3,8
+RM936,32,No,Travel_Rarely,Sales,3,Medical,Male,2,Sales Executive,4,6209,3,10
+RM940,32,Yes,Travel_Rarely,Research & Development,2,Life Sciences,Male,2,Laboratory Technician,3,4883,3,10
+RM992,32,No,Travel_Rarely,Sales,1,Marketing,Male,2,Sales Executive,2,4078,3,3
+RM1027,32,No,Travel_Rarely,Sales,5,Marketing,Male,2,Sales Executive,4,9204,3,4
+RM1076,32,No,Travel_Rarely,Research & Development,3,Medical,Male,3,Manager,4,11244,4,5
+RM1102,32,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,2,Research Scientist,2,5878,3,7
+RM1114,32,No,Non-Travel,Research & Development,4,Technical Degree,Male,2,Research Scientist,1,4087,3,6
+RM1140,32,No,Travel_Rarely,Research & Development,4,Other,Female,1,Research Scientist,4,3312,3,3
+RM1191,32,No,Travel_Rarely,Research & Development,3,Medical,Male,2,Research Scientist,2,5470,3,9
+RM1206,32,Yes,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,2,1393,3,1
+RM1227,32,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,1,Research Scientist,3,3433,3,5
+RM1238,32,Yes,Travel_Rarely,Sales,2,Life Sciences,Male,2,Sales Executive,2,6735,3,0
+RM1242,32,No,Travel_Rarely,Sales,3,Life Sciences,Male,3,Sales Executive,3,9610,3,4
+RM1261,32,No,Non-Travel,Research & Development,4,Technical Degree,Male,1,Research Scientist,2,2718,3,7
+RM1320,32,No,Travel_Frequently,Sales,4,Marketing,Male,2,Sales Executive,4,4648,3,0
+RM1327,32,Yes,Travel_Rarely,Sales,4,Marketing,Male,2,Sales Executive,2,9907,3,2
+RM1376,32,Yes,Travel_Frequently,Research & Development,2,Life Sciences,Female,1,Research Scientist,3,2432,3,4
+RM1389,32,No,Non-Travel,Research & Development,4,Medical,Female,2,Healthcare Representative,4,6667,3,5
+RM1395,32,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Manufacturing Director,4,9679,4,1
+RM1427,32,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Laboratory Technician,2,2837,3,6
+RM1429,32,No,Travel_Rarely,Sales,4,Medical,Male,1,Sales Representative,2,2269,3,2
+RM1432,32,No,Travel_Rarely,Sales,4,Marketing,Female,3,Sales Executive,4,10422,3,14
+RM1450,32,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,1,Research Scientist,1,2439,3,4
+RM004,33,No,Travel_Frequently,Research & Development,4,Life Sciences,Female,1,Research Scientist,3,2909,3,8
+RM031,33,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,4,2496,3,1
+RM040,33,No,Travel_Frequently,Sales,3,Life Sciences,Female,2,Sales Executive,1,5376,3,5
+RM056,33,No,Travel_Frequently,Research & Development,2,Life Sciences,Female,3,Research Director,4,13458,3,15
+RM122,33,No,Non-Travel,Sales,2,Marketing,Male,2,Sales Executive,2,6146,3,7
+RM177,33,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,4,2500,3,3
+RM186,33,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Research Scientist,2,2756,3,8
+RM222,33,No,Travel_Rarely,Research & Development,4,Medical,Female,1,Research Scientist,2,2622,4,3
+RM235,33,Yes,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,4,2436,3,5
+RM237,33,Yes,Travel_Rarely,Research & Development,2,Life Sciences,Female,1,Laboratory Technician,1,2707,4,9
+RM247,33,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Research Scientist,4,2911,3,2
+RM314,33,No,Travel_Frequently,Research & Development,4,Life Sciences,Female,3,Manager,2,11878,3,10
+RM329,33,No,Travel_Frequently,Sales,3,Marketing,Male,2,Sales Executive,4,4682,3,7
+RM364,33,Yes,Travel_Rarely,Sales,3,Marketing,Female,1,Sales Representative,3,2851,3,1
+RM436,33,Yes,Travel_Rarely,Research & Development,1,Medical,Male,3,Manager,3,13610,3,7
+RM437,33,Yes,Travel_Rarely,Research & Development,1,Medical,Male,1,Laboratory Technician,4,3408,3,4
+RM456,33,No,Travel_Rarely,Research & Development,5,Medical,Female,4,Research Director,3,16184,3,6
+RM500,33,No,Travel_Rarely,Sales,4,Marketing,Male,2,Sales Executive,3,7104,3,5
+RM510,33,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,2,Healthcare Representative,4,7725,4,13
+RM515,33,Yes,Travel_Frequently,Research & Development,3,Life Sciences,Male,1,Research Scientist,1,3348,3,10
+RM563,33,Yes,Travel_Rarely,Research & Development,4,Other,Male,1,Research Scientist,4,2686,3,10
+RM591,33,No,Travel_Rarely,Research & Development,3,Medical,Male,3,Research Director,3,11691,3,13
+RM592,33,Yes,Travel_Rarely,Sales,3,Marketing,Female,2,Sales Executive,1,5324,3,3
+RM620,33,No,Travel_Rarely,Sales,3,Medical,Male,2,Sales Executive,1,4037,4,9
+RM656,33,No,Travel_Rarely,Human Resources,2,Human Resources,Male,1,Human Resources,2,2277,3,4
+RM674,33,No,Travel_Rarely,Research & Development,4,Other,Male,1,Research Scientist,1,2799,3,3
+RM695,33,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,2,Healthcare Representative,4,6949,3,5
+RM711,33,No,Non-Travel,Sales,3,Life Sciences,Male,4,Manager,3,17444,3,10
+RM713,33,No,Travel_Rarely,Research & Development,1,Life Sciences,Female,1,Research Scientist,4,3452,3,3
+RM716,33,No,Travel_Frequently,Research & Development,4,Other,Female,2,Healthcare Representative,2,5488,3,6
+RM755,33,No,Non-Travel,Sales,1,Life Sciences,Female,1,Sales Representative,4,2342,3,2
+RM791,33,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,3,Healthcare Representative,4,7119,3,3
+RM793,33,Yes,Travel_Frequently,Research & Development,4,Medical,Female,2,Research Scientist,3,4508,4,13
+RM799,33,Yes,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,2,2313,4,2
+RM803,33,No,Travel_Frequently,Sales,3,Life Sciences,Female,2,Sales Executive,2,4302,3,3
+RM830,33,Yes,Travel_Rarely,Sales,4,Marketing,Female,2,Sales Executive,1,8224,3,5
+RM864,33,No,Travel_Rarely,Human Resources,3,Human Resources,Male,1,Human Resources,3,3600,3,5
+RM873,33,No,Travel_Frequently,Sales,3,Medical,Female,2,Sales Executive,3,4539,3,10
+RM884,33,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,4,2781,3,14
+RM909,33,No,Travel_Rarely,Sales,5,Marketing,Male,3,Sales Executive,3,8380,3,9
+RM991,33,No,Travel_Frequently,Sales,1,Life Sciences,Male,2,Sales Executive,4,9998,3,5
+RM1048,33,No,Travel_Frequently,Sales,3,Medical,Male,2,Sales Executive,1,4373,3,4
+RM1067,33,No,Travel_Rarely,Research & Development,4,Medical,Female,1,Laboratory Technician,2,3838,3,5
+RM1075,33,No,Travel_Rarely,Research & Development,5,Life Sciences,Male,2,Healthcare Representative,3,6388,3,0
+RM1092,33,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Manufacturing Director,2,4320,3,5
+RM1096,33,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Laboratory Technician,3,5207,3,15
+RM1106,33,No,Travel_Rarely,Sales,4,Life Sciences,Male,2,Sales Executive,1,6392,3,2
+RM1190,33,No,Travel_Rarely,Sales,4,Medical,Male,2,Sales Executive,4,5505,3,6
+RM1199,33,No,Non-Travel,Sales,3,Life Sciences,Female,2,Sales Executive,4,5368,4,6
+RM1211,33,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,2,2028,3,14
+RM1254,33,No,Non-Travel,Sales,3,Marketing,Female,2,Sales Executive,2,5147,3,11
+RM1256,33,Yes,Travel_Rarely,Sales,3,Life Sciences,Female,3,Sales Executive,1,8564,4,0
+RM1266,33,No,Non-Travel,Research & Development,3,Technical Degree,Male,2,Research Scientist,2,3055,3,9
+RM1283,33,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Research Scientist,1,3143,3,10
+RM1364,33,No,Travel_Rarely,Sales,4,Marketing,Male,2,Sales Executive,3,5487,3,10
+RM1399,33,No,Travel_Frequently,Research & Development,2,Life Sciences,Male,2,Healthcare Representative,3,5968,4,9
+RM1416,33,No,Non-Travel,Research & Development,2,Medical,Male,1,Laboratory Technician,3,2008,3,1
+RM1426,33,No,Travel_Rarely,Research & Development,2,Medical,Female,2,Healthcare Representative,4,4878,3,9
+RM014,34,No,TravelRarely,Research & Development,2,Medical,Male,1,Laboratory Technician,4,2661,3,2
+RM023,34,No,TravelRarely,Research & Development,4,Life Sciences,Female,3,Research Director,2,11994,3,12
+RM025,34,Yes,Travel_Rarely,Research & Development,1,Medical,Male,1,Research Scientist,1,2960,3,4
+RM047,34,No,Non-Travel,Sales,4,Marketing,Male,2,Sales Executive,3,4568,4,9
+RM085,34,No,Travel_Rarely,Research & Development,2,Medical,Male,2,Manufacturing Director,2,4325,3,5
+RM104,34,No,Travel_Rarely,Research & Development,4,Other,Female,2,Research Scientist,3,4809,3,16
+RM112,34,Yes,Travel_Frequently,Research & Development,3,Life Sciences,Male,2,Laboratory Technician,3,6074,4,9
+RM115,34,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,2,Research Scientist,2,4505,3,1
+RM117,34,No,Travel_Rarely,Research & Development,3,Medical,Female,3,Manager,1,11631,3,11
+RM160,34,No,Travel_Frequently,Sales,4,Marketing,Female,1,Sales Representative,3,2231,3,4
+RM182,34,No,Travel_Rarely,Research & Development,2,Medical,Female,1,Research Scientist,2,2311,3,3
+RM189,34,No,Travel_Frequently,Research & Development,1,Life Sciences,Male,2,Manufacturing Director,3,9547,3,10
+RM203,34,No,Travel_Frequently,Research & Development,4,Medical,Male,1,Research Scientist,3,3815,3,5
+RM248,34,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Manufacturing Director,1,5957,3,11
+RM379,34,Yes,Non-Travel,Sales,3,Marketing,Male,2,Sales Executive,4,5304,3,5
+RM394,34,No,Non-Travel,Sales,4,Marketing,Female,2,Sales Executive,3,6538,3,3
+RM416,34,Yes,Travel_Frequently,Sales,2,Marketing,Female,1,Sales Representative,3,2351,3,2
+RM433,34,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Research Scientist,3,2768,3,7
+RM441,34,Yes,Travel_Frequently,Human Resources,3,Human Resources,Female,3,Human Resources,1,9950,3,3
+RM463,34,No,Travel_Rarely,Sales,4,Life Sciences,Male,2,Sales Executive,4,5337,3,10
+RM482,34,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Research Scientist,4,3622,3,6
+RM495,34,No,Travel_Rarely,Sales,3,Technical Degree,Female,1,Sales Representative,3,2579,3,8
+RM504,34,No,Travel_Rarely,Research & Development,5,Life Sciences,Male,1,Research Scientist,4,2691,3,10
+RM525,34,No,Travel_Rarely,Research & Development,3,Medical,Female,3,Healthcare Representative,2,8621,3,8
+RM550,34,No,Travel_Rarely,Research & Development,2,Medical,Female,2,Healthcare Representative,3,6142,3,5
+RM561,34,No,Travel_Rarely,Research & Development,5,Life Sciences,Female,2,Manufacturing Director,1,5121,3,0
+RM568,34,No,Travel_Rarely,Sales,3,Other,Male,2,Sales Executive,4,6274,4,6
+RM575,34,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Research Scientist,4,3280,3,4
+RM580,34,No,Travel_Rarely,Research & Development,4,Medical,Female,1,Research Scientist,1,4381,3,6
+RM584,34,No,Travel_Rarely,Sales,2,Life Sciences,Female,2,Sales Executive,1,6500,3,3
+RM607,34,No,Travel_Frequently,Research & Development,4,Life Sciences,Female,1,Research Scientist,4,2553,3,5
+RM614,34,No,Travel_Rarely,Human Resources,2,Human Resources,Male,1,Human Resources,4,3737,3,3
+RM672,34,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,2,2008,3,1
+RM758,34,No,Travel_Rarely,Sales,4,Marketing,Male,2,Sales Executive,4,9725,3,15
+RM764,34,No,Travel_Rarely,Sales,4,Life Sciences,Female,1,Sales Representative,3,2220,3,1
+RM795,34,No,Travel_Frequently,Research & Development,1,Life Sciences,Male,2,Healthcare Representative,4,7756,3,6
+RM804,34,No,Non-Travel,Research & Development,4,Life Sciences,Male,1,Research Scientist,4,2979,3,0
+RM823,34,No,Travel_Frequently,Research & Development,2,Life Sciences,Male,2,Manufacturing Director,3,4033,3,3
+RM835,34,No,Travel_Rarely,Sales,1,Life Sciences,Female,2,Sales Executive,3,5714,4,6
+RM848,34,No,Travel_Frequently,Research & Development,3,Medical,Male,2,Healthcare Representative,1,5343,4,13
+RM907,34,No,Travel_Rarely,Research & Development,3,Technical Degree,Female,1,Research Scientist,3,2585,3,1
+RM918,34,No,Travel_Rarely,Sales,3,Marketing,Female,2,Sales Executive,1,4538,3,3
+RM921,34,No,Travel_Frequently,Research & Development,3,Medical,Female,2,Laboratory Technician,2,4444,3,11
+RM924,34,No,Travel_Frequently,Human Resources,3,Life Sciences,Male,2,Human Resources,2,4490,3,10
+RM959,34,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,3,Healthcare Representative,4,8500,3,9
+RM965,34,No,Travel_Rarely,Sales,2,Medical,Female,2,Sales Executive,1,6125,3,10
+RM978,34,No,Non-Travel,Research & Development,1,Technical Degree,Female,1,Research Scientist,3,2029,4,5
+RM980,34,No,Travel_Rarely,Research & Development,3,Medical,Male,2,Laboratory Technician,3,5429,3,8
+RM984,34,No,Travel_Rarely,Research & Development,4,Technical Degree,Female,2,Healthcare Representative,4,6687,3,14
+RM1016,34,No,Travel_Frequently,Research & Development,4,Other,Male,1,Research Scientist,1,2996,3,4
+RM1028,34,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Laboratory Technician,2,3294,3,5
+RM1040,34,Yes,Travel_Rarely,Human Resources,4,Technical Degree,Female,1,Human Resources,3,2742,3,2
+RM1049,34,No,Travel_Rarely,Sales,3,Other,Male,2,Sales Executive,1,4759,3,13
+RM1056,34,No,Travel_Frequently,Research & Development,3,Medical,Male,4,Research Director,1,17007,3,14
+RM1059,34,Yes,Travel_Rarely,Sales,4,Medical,Female,2,Sales Executive,2,4599,4,15
+RM1085,34,No,Travel_Rarely,Sales,3,Technical Degree,Male,3,Sales Executive,3,7083,3,10
+RM1088,34,No,Travel_Rarely,Sales,2,Technical Degree,Male,1,Sales Representative,3,2308,4,11
+RM1116,34,No,Travel_Rarely,Research & Development,4,Medical,Male,1,Research Scientist,4,2972,3,1
+RM1118,34,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Research Scientist,4,5484,3,2
+RM1132,34,No,Travel_Frequently,Research & Development,4,Technical Degree,Male,2,Healthcare Representative,3,5063,3,8
+RM1147,34,No,Travel_Frequently,Research & Development,4,Life Sciences,Male,2,Manufacturing Director,4,4724,3,9
+RM1180,34,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,2,Research Scientist,2,5433,3,11
+RM1209,34,No,Travel_Rarely,Research & Development,2,Medical,Male,2,Laboratory Technician,4,3986,3,15
+RM1213,34,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,4,2929,3,10
+RM1253,34,No,Travel_Rarely,Research & Development,4,Medical,Male,1,Research Scientist,4,2932,3,5
+RM1268,34,No,Non-Travel,Sales,3,Life Sciences,Male,2,Sales Executive,3,4001,3,15
+RM1271,34,No,Travel_Rarely,Sales,2,Life Sciences,Female,2,Sales Executive,4,6029,3,2
+RM1291,34,Yes,Travel_Frequently,Research & Development,4,Life Sciences,Male,2,Laboratory Technician,1,5346,3,7
+RM1301,34,No,Travel_Rarely,Sales,2,Technical Degree,Male,2,Sales Executive,3,6799,4,10
+RM1343,34,No,Travel_Rarely,Sales,3,Life Sciences,Male,3,Sales Executive,4,9713,3,5
+RM1354,34,Yes,Non-Travel,Research & Development,4,Technical Degree,Male,1,Research Scientist,1,2307,4,5
+RM1360,34,No,Travel_Rarely,Sales,1,Medical,Female,2,Sales Executive,4,8103,3,4
+RM1369,34,No,Travel_Frequently,Research & Development,4,Other,Male,2,Research Scientist,4,5747,3,15
+RM1385,34,No,Travel_Rarely,Sales,3,Marketing,Male,3,Sales Executive,4,9888,4,14
+RM1386,34,No,Travel_Rarely,Sales,4,Medical,Male,3,Sales Executive,3,8628,3,8
+RM1447,34,No,Travel_Rarely,Sales,3,Marketing,Female,2,Sales Executive,3,6712,4,8
+RM1470,34,No,TravelRarely,Research & Development,3,Medical,Male,2,Laboratory Technician,3,4404,3,4
+RM1470,34,No,TravelRarely,Research & Development,3,Medical,Male,2,Laboratory Technician,3,4404,3,4
+RM011,35,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,2,2426,3,5
+RM038,35,No,Travel_Rarely,Sales,3,Marketing,Female,1,Sales Representative,4,2014,3,2
+RM041,35,No,Travel_Rarely,Research & Development,2,Other,Male,1,Laboratory Technician,4,1951,3,1
+RM050,35,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,1,Laboratory Technician,4,2269,3,1
+RM054,35,No,Non-Travel,Research & Development,2,Medical,Male,3,Healthcare Representative,1,9884,3,4
+RM057,35,No,Travel_Frequently,Sales,5,Life Sciences,Male,3,Sales Executive,1,9069,4,9
+RM058,35,No,Travel_Rarely,Research & Development,4,Medical,Female,1,Laboratory Technician,1,4014,3,2
+RM069,35,No,Travel_Frequently,Research & Development,3,Medical,Male,1,Research Scientist,1,2194,3,3
+RM077,35,No,Travel_Rarely,Sales,4,Marketing,Male,2,Sales Executive,1,4312,3,15
+RM082,35,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,3,2859,3,6
+RM152,35,No,Travel_Rarely,Sales,5,Marketing,Male,3,Sales Executive,2,7295,3,10
+RM193,35,Yes,Travel_Rarely,Research & Development,2,Life Sciences,Male,2,Manufacturing Director,3,5916,3,1
+RM197,35,No,Travel_Frequently,Research & Development,3,Medical,Female,2,Laboratory Technician,2,4425,3,6
+RM229,35,No,Travel_Frequently,Sales,3,Marketing,Female,3,Sales Executive,3,8789,3,10
+RM277,35,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,3,Manager,2,11996,3,7
+RM298,35,No,Travel_Rarely,Sales,3,Marketing,Male,3,Sales Executive,2,8020,3,11
+RM345,35,No,Travel_Rarely,Research & Development,4,Technical Degree,Male,3,Manufacturing Director,2,8095,3,16
+RM373,35,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Healthcare Representative,2,6540,3,1
+RM431,35,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,3,4230,3,5
+RM439,35,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,3,Healthcare Representative,3,7632,3,8
+RM448,35,No,Travel_Rarely,Sales,3,Marketing,Male,2,Sales Executive,3,4717,3,11
+RM462,35,No,Travel_Rarely,Sales,3,Medical,Female,2,Sales Executive,3,4859,3,5
+RM484,35,No,Travel_Rarely,Research & Development,2,Other,Male,2,Laboratory Technician,4,3681,3,3
+RM509,35,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Research Scientist,4,6646,3,17
+RM516,35,No,Non-Travel,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,3,1281,3,1
+RM558,35,No,Non-Travel,Research & Development,4,Life Sciences,Female,2,Healthcare Representative,1,5093,3,1
+RM581,35,No,Travel_Rarely,Sales,4,Life Sciences,Female,1,Sales Representative,4,2572,3,3
+RM597,35,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Research Scientist,3,2506,3,2
+RM612,35,No,Travel_Rarely,Research & Development,3,Other,Male,3,Manufacturing Director,3,10221,4,8
+RM621,35,No,Travel_Rarely,Research & Development,1,Medical,Female,1,Research Scientist,1,2559,3,6
+RM636,35,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,3,Manufacturing Director,3,10685,4,17
+RM637,35,Yes,Travel_Frequently,Research & Development,4,Life Sciences,Female,1,Research Scientist,2,2022,3,10
+RM648,35,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,3,Manufacturing Director,2,10903,3,13
+RM677,35,No,Travel_Rarely,Research & Development,1,Life Sciences,Female,2,Healthcare Representative,4,4014,4,10
+RM699,35,No,Travel_Rarely,Sales,3,Medical,Female,2,Sales Executive,3,4601,3,5
+RM705,35,No,Travel_Rarely,Sales,4,Life Sciences,Male,3,Sales Executive,4,7823,3,10
+RM726,35,Yes,Travel_Rarely,Research & Development,4,Other,Male,1,Laboratory Technician,2,3743,4,4
+RM730,35,No,Travel_Rarely,Research & Development,4,Medical,Female,3,Healthcare Representative,3,10388,3,16
+RM741,35,No,Travel_Rarely,Research & Development,3,Other,Male,1,Laboratory Technician,4,3917,4,3
+RM792,35,Yes,Travel_Rarely,Sales,3,Technical Degree,Male,3,Sales Executive,1,9582,4,8
+RM821,35,No,Travel_Frequently,Sales,2,Marketing,Male,2,Sales Executive,4,4968,3,5
+RM836,35,No,Travel_Rarely,Human Resources,4,Technical Degree,Male,1,Human Resources,3,4323,3,5
+RM841,35,No,Travel_Rarely,Research & Development,4,Medical,Male,1,Laboratory Technician,3,2258,3,8
+RM847,35,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,3,Manufacturing Director,2,10274,3,7
+RM849,35,No,Travel_Frequently,Research & Development,4,Other,Male,1,Laboratory Technician,4,2376,3,2
+RM871,35,No,Travel_Rarely,Sales,4,Life Sciences,Male,2,Sales Executive,1,8966,3,7
+RM889,35,No,Non-Travel,Sales,2,Marketing,Female,3,Sales Executive,4,10377,3,13
+RM925,35,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,1,Research Scientist,3,3506,3,3
+RM962,35,No,Travel_Frequently,Research & Development,4,Life Sciences,Male,2,Research Scientist,3,4249,3,9
+RM974,35,No,Travel_Rarely,Research & Development,3,Medical,Female,2,Laboratory Technician,4,5363,3,9
+RM982,35,Yes,Travel_Frequently,Sales,4,Marketing,Female,2,Sales Executive,3,4614,3,4
+RM1003,35,No,Travel_Frequently,Research & Development,2,Life Sciences,Male,3,Manufacturing Director,4,9362,3,2
+RM1060,35,No,Travel_Rarely,Sales,1,Life Sciences,Male,1,Sales Representative,3,2404,3,1
+RM1082,35,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,3,Healthcare Representative,2,8606,3,11
+RM1101,35,No,Travel_Rarely,Sales,4,Life Sciences,Female,1,Sales Representative,3,2430,4,5
+RM1109,35,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,1,2450,3,3
+RM1111,35,Yes,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Laboratory Technician,1,2074,3,1
+RM1124,35,No,Travel_Rarely,Research & Development,4,Medical,Female,2,Healthcare Representative,3,6142,3,5
+RM1131,35,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Laboratory Technician,3,3407,3,10
+RM1135,35,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Laboratory Technician,4,2690,3,1
+RM1151,35,No,Travel_Rarely,Research & Development,5,Life Sciences,Male,2,Research Scientist,1,5208,3,16
+RM1158,35,No,Non-Travel,Research & Development,4,Life Sciences,Female,2,Healthcare Representative,3,4148,3,14
+RM1163,35,Yes,Travel_Rarely,Sales,3,Medical,Male,3,Sales Executive,1,10306,3,13
+RM1168,35,Yes,Travel_Rarely,Sales,2,Medical,Male,2,Sales Executive,4,5440,3,2
+RM1187,35,Yes,Travel_Frequently,Sales,4,Other,Male,2,Sales Executive,4,4581,4,11
+RM1216,35,No,Travel_Frequently,Research & Development,4,Medical,Male,1,Research Scientist,4,4930,3,5
+RM1233,35,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Manufacturing Director,3,6883,3,7
+RM1282,35,Yes,Travel_Rarely,Sales,3,Life Sciences,Male,2,Sales Executive,4,5813,3,10
+RM1289,35,No,Non-Travel,Research & Development,2,Medical,Male,2,Manufacturing Director,4,5762,3,7
+RM1303,35,No,Travel_Rarely,Research & Development,4,Medical,Male,1,Laboratory Technician,3,2705,3,5
+RM1346,35,No,Travel_Rarely,Research & Development,2,Other,Female,2,Manufacturing Director,2,4788,3,3
+RM1381,35,No,Travel_Rarely,Sales,4,Medical,Male,2,Sales Executive,1,5561,3,5
+RM1393,35,No,Travel_Rarely,Sales,4,Life Sciences,Female,2,Sales Executive,4,5204,3,10
+RM1423,35,No,TravelRarely,Research & Development,4,Medical,Male,1,Laboratory Technician,3,2660,3,2
+RM1425,35,No,Travel_Rarely,Research & Development,4,Medical,Male,2,Research Scientist,3,5098,3,10
+RM1451,35,No,Travel_Rarely,Human Resources,4,Life Sciences,Female,3,Human Resources,4,8837,3,9
+RM1457,35,No,Travel_Frequently,Research & Development,4,Life Sciences,Male,2,Healthcare Representative,3,5689,3,10
+RM1459,35,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Research Scientist,4,2977,3,4
+RM010,36,No,Travel_Rarely,Research & Development,3,Medical,Male,2,Healthcare Representative,3,5237,3,7
+RM022,36,Yes,Travel_Rarely,Sales,4,Life Sciences,Male,1,Sales Representative,1,3407,4,5
+RM039,36,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Research Scientist,1,3419,3,1
+RM065,36,No,Travel_Rarely,Research & Development,3,Technical Degree,Female,3,Healthcare Representative,3,10096,3,17
+RM067,36,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,2,Manufacturing Director,2,6499,3,6
+RM070,36,Yes,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,3,3388,3,1
+RM075,36,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Laboratory Technician,4,3038,3,1
+RM118,36,No,Travel_Frequently,Sales,2,Technical Degree,Female,3,Sales Executive,4,9738,3,9
+RM119,36,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,1,Laboratory Technician,4,2835,4,1
+RM136,36,No,Travel_Rarely,Research & Development,2,Medical,Male,2,Manufacturing Director,2,4941,4,3
+RM173,36,No,Travel_Frequently,Research & Development,2,Medical,Male,1,Laboratory Technician,2,2088,3,8
+RM208,36,No,Travel_Frequently,Research & Development,1,Medical,Female,1,Laboratory Technician,4,2153,3,8
+RM221,36,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,2,Laboratory Technician,2,5914,3,13
+RM270,36,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,4,3210,3,15
+RM292,36,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,2,Research Scientist,2,4485,3,8
+RM299,36,No,Travel_Frequently,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,4,3688,3,1
+RM306,36,No,Non-Travel,Research & Development,4,Life Sciences,Female,2,Laboratory Technician,2,5674,3,9
+RM359,36,No,Non-Travel,Sales,5,Medical,Female,2,Sales Executive,4,6653,3,1
+RM360,36,No,Travel_Frequently,Sales,4,Medical,Male,3,Sales Executive,4,9699,3,13
+RM378,36,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,3,2543,3,2
+RM385,36,No,Travel_Rarely,Sales,2,Medical,Male,3,Sales Executive,3,7596,3,10
+RM443,36,No,Non-Travel,Sales,4,Medical,Male,3,Sales Executive,4,9980,3,10
+RM512,36,No,Travel_Rarely,Research & Development,2,Medical,Male,2,Manufacturing Director,2,8847,3,3
+RM542,36,No,Non-Travel,Research & Development,3,Life Sciences,Female,3,Research Director,1,11713,3,8
+RM570,36,No,Non-Travel,Sales,4,Life Sciences,Male,3,Sales Executive,1,7587,3,10
+RM594,36,No,Travel_Rarely,Research & Development,3,Other,Female,2,Manufacturing Director,2,5228,3,9
+RM600,36,No,Travel_Rarely,Human Resources,3,Human Resources,Male,1,Human Resources,2,2143,3,5
+RM622,36,No,Travel_Rarely,Sales,2,Life Sciences,Male,2,Sales Executive,4,6201,3,18
+RM634,36,No,Travel_Rarely,Human Resources,3,Life Sciences,Male,1,Human Resources,1,2342,4,5
+RM665,36,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,2,Healthcare Representative,4,6586,3,16
+RM681,36,No,Travel_Rarely,Research & Development,4,Other,Male,1,Research Scientist,4,4678,3,6
+RM688,36,No,Travel_Rarely,Research & Development,4,Medical,Male,1,Laboratory Technician,3,2519,4,11
+RM694,36,Yes,Travel_Rarely,Sales,1,Life Sciences,Male,3,Sales Executive,4,10325,3,16
+RM709,36,No,Non-Travel,Sales,4,Technical Degree,Male,2,Sales Executive,4,5079,3,7
+RM753,36,Yes,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Laboratory Technician,1,2743,3,17
+RM762,36,Yes,Travel_Rarely,Research & Development,3,Other,Male,2,Laboratory Technician,3,4834,3,1
+RM774,36,No,Travel_Rarely,Research & Development,5,Medical,Female,3,Manufacturing Director,4,8858,3,14
+RM818,36,No,Non-Travel,Research & Development,4,Life Sciences,Male,2,Manufacturing Director,4,7779,4,11
+RM874,36,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,3,2741,3,7
+RM883,36,No,Travel_Rarely,Research & Development,3,Technical Degree,Female,3,Manufacturing Director,1,10252,4,7
+RM901,36,No,Travel_Frequently,Research & Development,3,Technical Degree,Male,1,Research Scientist,2,3692,3,11
+RM928,36,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,2,Manufacturing Director,2,5410,3,16
+RM943,36,No,Travel_Rarely,Research & Development,4,Technical Degree,Female,3,Healthcare Representative,3,7094,3,7
+RM969,36,No,Travel_Frequently,Sales,3,Marketing,Female,2,Sales Executive,1,4639,3,15
+RM1012,36,No,Travel_Rarely,Sales,4,Marketing,Female,2,Sales Executive,2,9278,3,5
+RM1019,36,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Laboratory Technician,4,5810,3,10
+RM1020,36,No,Travel_Rarely,Sales,4,Marketing,Female,2,Sales Executive,1,5647,3,3
+RM1103,36,No,Travel_Rarely,Sales,4,Life Sciences,Male,1,Sales Representative,4,2644,4,3
+RM1122,36,No,Travel_Rarely,Sales,4,Life Sciences,Female,2,Sales Executive,3,6815,3,1
+RM1129,36,No,Travel_Frequently,Research & Development,4,Life Sciences,Male,2,Laboratory Technician,1,5562,3,3
+RM1146,36,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,2,Manufacturing Director,3,4663,3,3
+RM1174,36,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,3,Healthcare Representative,1,8008,3,3
+RM1181,36,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,2,2013,3,4
+RM1183,36,No,Non-Travel,Research & Development,4,Medical,Female,2,Manufacturing Director,3,4374,3,3
+RM1184,36,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,2,Healthcare Representative,1,6842,4,5
+RM1200,36,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Healthcare Representative,3,5347,3,3
+RM1221,36,No,Travel_Rarely,Sales,4,Life Sciences,Female,2,Sales Representative,4,4502,3,13
+RM1237,36,Yes,Travel_Rarely,Sales,5,Marketing,Male,2,Sales Executive,1,6134,3,2
+RM1279,36,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,3,Healthcare Representative,1,8321,3,12
+RM1316,36,No,Travel_Rarely,Research & Development,4,Other,Female,2,Research Scientist,2,6962,4,1
+RM1341,36,No,Travel_Rarely,Sales,4,Technical Degree,Female,2,Sales Executive,3,5673,3,10
+RM1348,36,No,Travel_Frequently,Human Resources,1,Human Resources,Male,2,Human Resources,4,3886,4,10
+RM1356,36,No,Travel_Rarely,Sales,2,Marketing,Male,2,Sales Executive,2,5507,3,4
+RM1384,36,No,Non-Travel,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,2,2810,4,5
+RM1440,36,No,Travel_Rarely,Sales,3,Medical,Female,3,Sales Executive,4,7644,3,9
+RM1441,36,No,Travel_Frequently,Research & Development,2,Life Sciences,Female,2,Manufacturing Director,2,5131,3,4
+RM1448,36,No,Non-Travel,Sales,4,Marketing,Male,2,Sales Executive,4,5406,4,15
+RM1454,36,No,Travel_Rarely,Sales,4,Marketing,Female,2,Sales Executive,4,6652,3,6
+RM1466,36,No,Travel_Frequently,Research & Development,2,Medical,Male,2,Laboratory Technician,4,2571,3,5
+RM1466,36,No,Travel_Frequently,Research & Development,2,Medical,Male,2,Laboratory Technician,4,2571,3,5
+RM003,37,Yes,Travel_Rarely,Research & Development,2,Other,Male,1,Laboratory Technician,3,2090,3,0
+RM048,37,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Research Scientist,2,3022,4,1
+RM060,37,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Manufacturing Director,3,5993,3,7
+RM079,37,No,Travel_Rarely,Research & Development,4,Medical,Male,3,Research Director,3,13664,3,5
+RM101,37,Yes,Travel_Rarely,Human Resources,4,Human Resources,Male,1,Human Resources,1,2073,4,3
+RM105,37,No,Non-Travel,Research & Development,2,Life Sciences,Male,2,Healthcare Representative,4,5163,3,1
+RM116,37,No,Travel_Rarely,Sales,3,Life Sciences,Male,3,Sales Executive,4,7428,3,5
+RM196,37,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,1,3564,3,8
+RM223,37,No,Travel_Frequently,Research & Development,3,Other,Male,3,Research Director,4,12185,3,10
+RM227,37,No,Travel_Frequently,Sales,4,Marketing,Male,1,Sales Representative,4,2793,3,9
+RM249,37,No,Travel_Rarely,Research & Development,2,Medical,Female,1,Research Scientist,1,3920,3,3
+RM251,37,Yes,Travel_Frequently,Research & Development,3,Medical,Male,3,Manufacturing Director,3,10048,3,1
+RM274,37,No,Travel_Rarely,Sales,4,Medical,Male,2,Sales Executive,4,6502,3,5
+RM276,37,No,Non-Travel,Research & Development,4,Medical,Female,3,Research Director,4,13603,3,5
+RM286,37,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,4,2115,3,17
+RM295,37,No,Travel_Frequently,Research & Development,3,Medical,Male,1,Research Scientist,4,2326,3,4
+RM341,37,No,Travel_Rarely,Research & Development,2,Medical,Male,2,Manufacturing Director,4,6347,3,6
+RM354,37,No,Travel_Rarely,Research & Development,3,Medical,Male,2,Research Scientist,1,5974,3,7
+RM365,37,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Laboratory Technician,1,3452,4,5
+RM387,37,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Laboratory Technician,1,3034,3,18
+RM390,37,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Manufacturing Director,2,4197,3,1
+RM399,37,No,Non-Travel,Research & Development,5,Medical,Female,2,Research Scientist,3,4449,3,13
+RM465,37,No,Travel_Rarely,Research & Development,3,Technical Degree,Female,3,Manufacturing Director,4,7491,3,6
+RM468,37,No,Non-Travel,Sales,4,Medical,Male,3,Sales Executive,2,8834,3,9
+RM473,37,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,2,Manufacturing Director,2,6447,3,6
+RM487,37,No,Travel_Rarely,Sales,3,Marketing,Male,2,Sales Executive,3,9602,3,3
+RM507,37,No,Travel_Rarely,Research & Development,3,Other,Male,3,Manufacturing Director,3,9434,3,10
+RM523,37,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Research Scientist,4,4680,3,1
+RM578,37,No,Travel_Rarely,Research & Development,1,Life Sciences,Female,1,Research Scientist,1,2782,3,5
+RM629,37,No,Travel_Rarely,Sales,4,Marketing,Male,2,Sales Executive,3,6334,3,1
+RM649,37,No,Travel_Frequently,Sales,2,Medical,Female,1,Sales Representative,4,2973,3,5
+RM653,37,No,Non-Travel,Sales,2,Medical,Male,3,Sales Executive,2,7642,3,10
+RM696,37,Yes,Travel_Rarely,Sales,4,Life Sciences,Male,3,Sales Executive,3,10609,3,14
+RM745,37,Yes,Travel_Rarely,Research & Development,2,Medical,Female,2,Healthcare Representative,2,4777,3,1
+RM768,37,No,Travel_Rarely,Research & Development,3,Other,Female,2,Healthcare Representative,2,4107,3,4
+RM796,37,No,Travel_Rarely,Sales,4,Life Sciences,Female,2,Sales Executive,4,6694,3,1
+RM833,37,No,Travel_Rarely,Research & Development,2,Medical,Female,2,Healthcare Representative,4,5731,3,6
+RM856,37,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,2,Manufacturing Director,4,6474,3,14
+RM990,37,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,1,Research Scientist,3,2996,3,6
+RM1002,37,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Laboratory Technician,3,3629,3,3
+RM1023,37,No,Non-Travel,Research & Development,2,Technical Degree,Male,1,Laboratory Technician,3,3500,3,6
+RM1090,37,No,Travel_Rarely,Research & Development,3,Medical,Male,2,Research Scientist,4,4285,3,10
+RM1159,37,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Manufacturing Director,3,5768,3,4
+RM1164,37,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Research Scientist,2,3936,3,8
+RM1212,37,No,Travel_Frequently,Sales,4,Medical,Male,2,Sales Executive,4,9525,3,6
+RM1277,37,No,Travel_Rarely,Sales,2,Marketing,Male,2,Sales Executive,2,4189,3,5
+RM1281,37,No,Travel_Rarely,Human Resources,2,Other,Male,2,Human Resources,2,4071,3,10
+RM1292,37,Yes,Travel_Rarely,Research & Development,4,Medical,Male,2,Manufacturing Director,1,4213,3,10
+RM1345,37,No,Travel_Rarely,Research & Development,4,Medical,Male,2,Research Scientist,1,4284,4,5
+RM1433,37,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,3,Research Director,4,13744,4,16
+RM009,38,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,3,Manufacturing Director,3,9526,4,9
+RM020,38,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,4,3944,3,3
+RM062,38,No,Travel_Frequently,Research & Development,5,Life Sciences,Female,2,Laboratory Technician,4,2406,3,10
+RM084,38,No,Non-Travel,Research & Development,3,Medical,Female,2,Research Scientist,4,5329,3,13
+RM143,38,No,Travel_Rarely,Research & Development,5,Technical Degree,Female,2,Research Scientist,3,4317,4,3
+RM169,38,No,Travel_Rarely,Sales,4,Life Sciences,Female,2,Sales Executive,4,8686,4,8
+RM180,38,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,1,Laboratory Technician,4,2288,3,2
+RM199,38,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Manufacturing Director,3,6553,3,1
+RM200,38,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,2,Manufacturing Director,4,6261,3,7
+RM205,38,Yes,Travel_Rarely,Research & Development,1,Medical,Male,2,Healthcare Representative,1,6673,3,1
+RM224,38,No,Travel_Rarely,Sales,3,Life Sciences,Male,3,Sales Executive,3,10609,3,16
+RM262,38,No,Non-Travel,Sales,2,Life Sciences,Male,2,Sales Executive,4,5249,3,8
+RM278,38,No,Travel_Rarely,Sales,2,Medical,Female,2,Sales Executive,1,5605,4,8
+RM288,38,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Healthcare Representative,4,5745,3,2
+RM308,38,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,3,Research Director,2,12061,3,10
+RM342,38,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,3,Research Director,4,11510,3,11
+RM417,38,No,Travel_Frequently,Research & Development,2,Life Sciences,Male,1,Laboratory Technician,4,1702,4,1
+RM472,38,No,Travel_Rarely,Research & Development,3,Medical,Female,2,Healthcare Representative,3,9824,3,1
+RM491,38,No,Travel_Rarely,Research & Development,1,Life Sciences,Female,1,Research Scientist,1,2619,3,0
+RM519,38,No,Travel_Rarely,Sales,4,Marketing,Female,2,Sales Executive,4,4028,4,7
+RM530,38,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,2,Healthcare Representative,4,7625,3,9
+RM543,38,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,3,Manufacturing Director,3,7861,3,1
+RM560,38,No,Travel_Rarely,Research & Development,5,Medical,Male,1,Research Scientist,3,3057,3,1
+RM579,38,No,Travel_Frequently,Research & Development,4,Life Sciences,Female,2,Manufacturing Director,1,5980,3,15
+RM606,38,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,2,Healthcare Representative,1,6288,3,4
+RM643,38,No,Travel_Rarely,Sales,3,Marketing,Male,1,Sales Representative,2,2899,3,2
+RM682,38,No,Travel_Rarely,Research & Development,3,Technical Degree,Female,3,Research Director,1,13582,3,15
+RM704,38,No,Non-Travel,Sales,3,Technical Degree,Female,2,Sales Executive,4,5666,3,5
+RM723,38,No,Travel_Frequently,Research & Development,1,Medical,Male,1,Research Scientist,3,2684,3,2
+RM748,38,No,Travel_Rarely,Sales,4,Life Sciences,Male,2,Sales Executive,4,6861,3,1
+RM766,38,No,Travel_Frequently,Research & Development,4,Other,Male,1,Research Scientist,3,2821,3,2
+RM785,38,No,Travel_Rarely,Research & Development,1,Life Sciences,Female,3,Healthcare Representative,3,8823,3,19
+RM808,38,No,Travel_Rarely,Sales,4,Marketing,Male,3,Sales Executive,3,8740,3,8
+RM812,38,No,Travel_Rarely,Sales,2,Marketing,Male,3,Sales Executive,2,7351,3,1
+RM827,38,No,Travel_Rarely,Human Resources,3,Human Resources,Male,1,Human Resources,3,2844,3,7
+RM964,38,No,Travel_Rarely,Sales,2,Life Sciences,Female,2,Sales Executive,1,6893,3,7
+RM983,38,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,1,Research Scientist,3,2610,3,4
+RM1108,38,No,Travel_Frequently,Human Resources,4,Human Resources,Male,2,Human Resources,3,6077,3,6
+RM1113,38,Yes,Travel_Rarely,Research & Development,3,Medical,Male,2,Manufacturing Director,2,4855,3,5
+RM1120,38,No,Travel_Rarely,Sales,3,Life Sciences,Male,2,Sales Executive,2,9924,3,9
+RM1121,38,No,Travel_Rarely,Sales,3,Life Sciences,Female,2,Sales Executive,2,4198,3,3
+RM1162,38,No,Travel_Rarely,Research & Development,2,Medical,Female,3,Manufacturing Director,3,7756,3,5
+RM1188,38,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,2,Research Scientist,4,4735,3,13
+RM1194,38,No,Travel_Frequently,Research & Development,3,Medical,Female,1,Laboratory Technician,2,2440,4,4
+RM1203,38,No,Travel_Rarely,Research & Development,2,Medical,Female,1,Laboratory Technician,3,3306,3,0
+RM1257,38,No,Travel_Frequently,Research & Development,2,Medical,Female,1,Laboratory Technician,2,2468,3,6
+RM1262,38,No,Travel_Rarely,Research & Development,3,Medical,Male,2,Healthcare Representative,4,5811,3,1
+RM1273,38,No,Travel_Rarely,Research & Development,2,Other,Female,1,Laboratory Technician,3,3702,3,5
+RM1290,38,No,Non-Travel,Human Resources,3,Human Resources,Male,1,Human Resources,2,2592,3,11
+RM1309,38,No,Travel_Rarely,Sales,4,Marketing,Female,2,Sales Representative,4,5405,4,4
+RM1374,38,No,Travel_Frequently,Research & Development,3,Medical,Female,2,Research Scientist,2,2133,3,20
+RM1377,38,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Research Scientist,4,4771,3,5
+RM1392,38,No,Travel_Rarely,Sales,3,Life Sciences,Male,1,Sales Representative,1,2858,3,1
+RM1401,38,No,Travel_Frequently,Human Resources,4,Other,Male,1,Human Resources,2,2991,3,6
+RM1417,38,No,Travel_Rarely,Sales,4,Life Sciences,Male,2,Sales Executive,2,4440,3,15
+RM1419,38,No,Travel_Frequently,Research & Development,4,Life Sciences,Male,2,Manufacturing Director,3,5321,3,8
+RM1431,38,No,Travel_Rarely,Research & Development,3,Medical,Female,3,Research Director,3,13206,3,18
+RM1452,38,No,TravelRarely,Sales,2,Life Sciences,Female,2,Sales Executive,4,5343,3,10
+RM034,39,Yes,Travel_Rarely,Sales,3,Technical Degree,Male,2,Sales Representative,4,2086,3,1
+RM138,39,No,Travel_Rarely,Sales,4,Life Sciences,Female,2,Sales Executive,3,5902,3,15
+RM241,39,No,Travel_Rarely,Research & Development,4,Medical,Female,1,Laboratory Technician,3,2232,3,3
+RM252,39,No,Travel_Frequently,Research & Development,4,Technical Degree,Female,3,Healthcare Representative,3,10938,4,19
+RM305,39,No,Travel_Rarely,Research & Development,3,Medical,Male,3,Healthcare Representative,4,9613,3,18
+RM315,39,No,Travel_Rarely,Research & Development,1,Medical,Male,4,Manager,1,17068,3,21
+RM327,39,No,Travel_Frequently,Research & Development,2,Medical,Male,5,Manager,4,19272,3,21
+RM328,39,Yes,Travel_Rarely,Sales,2,Medical,Female,2,Sales Executive,3,5238,3,1
+RM401,39,No,Travel_Frequently,Research & Development,1,Life Sciences,Male,5,Manager,3,19197,3,21
+RM450,39,No,Travel_Frequently,Research & Development,1,Life Sciences,Female,1,Laboratory Technician,3,3755,3,8
+RM527,39,No,Travel_Rarely,Research & Development,4,Technical Degree,Female,2,Healthcare Representative,3,4553,3,20
+RM552,39,No,Travel_Rarely,Human Resources,3,Human Resources,Female,2,Human Resources,2,6389,3,8
+RM655,39,No,Travel_Rarely,Human Resources,3,Life Sciences,Female,2,Human Resources,4,5204,3,5
+RM670,39,Yes,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,1,2404,4,2
+RM706,39,No,Travel_Rarely,Sales,5,Life Sciences,Male,3,Sales Executive,3,7880,3,8
+RM739,39,No,Travel_Rarely,Research & Development,1,Life Sciences,Female,4,Manufacturing Director,4,12742,3,21
+RM754,39,No,Travel_Frequently,Research & Development,3,Medical,Female,3,Manufacturing Director,1,10880,3,21
+RM814,39,Yes,Travel_Frequently,Research & Development,3,Life Sciences,Male,4,Healthcare Representative,4,12169,3,18
+RM817,39,No,Non-Travel,Research & Development,3,Life Sciences,Male,2,Laboratory Technician,2,6782,3,5
+RM938,39,No,Travel_Rarely,Research & Development,4,Medical,Female,4,Manager,2,17123,3,19
+RM941,39,Yes,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,1,3904,3,5
+RM950,39,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,2,Manufacturing Director,3,4534,3,8
+RM987,39,No,Travel_Rarely,Sales,4,Life Sciences,Male,2,Sales Executive,4,6120,3,5
+RM993,39,No,Non-Travel,Research & Development,2,Life Sciences,Male,3,Healthcare Representative,3,10920,4,6
+RM1033,39,Yes,Non-Travel,Research & Development,3,Life Sciences,Female,1,Laboratory Technician,1,3646,4,1
+RM1080,39,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,3,Manufacturing Director,2,8376,3,2
+RM1125,39,No,Travel_Rarely,Sales,3,Medical,Male,3,Sales Executive,3,8237,3,7
+RM1149,39,No,Travel_Rarely,Research & Development,5,Medical,Male,2,Manufacturing Director,1,5377,3,7
+RM1156,39,No,Travel_Rarely,Research & Development,2,Medical,Male,2,Laboratory Technician,3,3069,3,10
+RM1160,39,No,Travel_Frequently,Research & Development,3,Medical,Female,2,Manufacturing Director,3,5042,3,9
+RM1176,39,No,Travel_Rarely,Research & Development,3,Medical,Male,2,Manufacturing Director,2,5295,4,5
+RM1241,39,No,Non-Travel,Research & Development,3,Life Sciences,Male,2,Laboratory Technician,4,6472,3,9
+RM1285,39,No,Travel_Rarely,Research & Development,1,Medical,Male,3,Research Director,3,13464,4,4
+RM1293,39,No,Travel_Frequently,Sales,3,Life Sciences,Male,2,Sales Executive,4,4127,3,2
+RM1336,39,No,Travel_Rarely,Research & Development,4,Other,Male,2,Research Scientist,4,3902,3,2
+RM1367,39,No,Non-Travel,Sales,4,Life Sciences,Female,2,Sales Executive,3,5736,3,3
+RM1373,39,No,Travel_Rarely,Research & Development,2,Medical,Male,2,Manufacturing Director,1,5151,4,10
+RM1404,39,No,Travel_Rarely,Sales,4,Marketing,Male,4,Sales Executive,1,13341,3,20
+RM1430,39,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,2,Research Scientist,4,4108,3,7
+RM1438,39,No,Non-Travel,Research & Development,3,Life Sciences,Male,5,Manager,4,19431,3,6
+RM1463,39,No,Travel_Rarely,Sales,1,Marketing,Female,4,Sales Executive,4,12031,3,20
+RM1467,39,No,Travel_Rarely,Research & Development,1,Medical,Male,3,Healthcare Representative,1,9991,3,7
+RM1463,39,No,Travel_Rarely,Sales,1,Marketing,Female,4,Sales Executive,4,12031,3,20
+RM1467,39,No,Travel_Rarely,Research & Development,1,Medical,Male,3,Healthcare Representative,1,9991,3,7
+RM091,40,No,Travel_Frequently,Research & Development,4,Life Sciences,Male,4,Healthcare Representative,2,13503,4,22
+RM151,40,No,Travel_Frequently,Research & Development,3,Medical,Female,2,Research Scientist,2,5605,3,20
+RM159,40,No,Travel_Rarely,Sales,4,Marketing,Male,3,Sales Executive,4,10855,3,12
+RM187,40,No,Travel_Rarely,Research & Development,1,Medical,Female,5,Manager,3,19033,3,20
+RM204,40,No,Travel_Rarely,Research & Development,2,Medical,Male,2,Laboratory Technician,4,2741,3,7
+RM209,40,No,Non-Travel,Research & Development,5,Life Sciences,Male,2,Healthcare Representative,4,4876,3,3
+RM244,40,No,Travel_Rarely,Research & Development,2,Technical Degree,Male,2,Research Scientist,4,3319,3,9
+RM258,40,No,Travel_Rarely,Research & Development,2,Medical,Male,5,Research Director,3,19436,3,21
+RM336,40,No,Travel_Rarely,Sales,2,Medical,Male,2,Sales Executive,4,7457,4,4
+RM362,40,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Laboratory Technician,3,2213,3,7
+RM369,40,Yes,Travel_Rarely,Sales,2,Marketing,Male,2,Sales Executive,3,6380,3,6
+RM388,40,No,Travel_Rarely,Sales,2,Marketing,Female,2,Sales Executive,2,5715,3,5
+RM392,40,No,Travel_Rarely,Research & Development,3,Medical,Female,2,Laboratory Technician,3,3448,4,1
+RM418,40,No,Travel_Rarely,Sales,4,Life Sciences,Female,5,Manager,3,18041,3,20
+RM449,40,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,4,Manufacturing Director,3,13237,3,20
+RM459,40,No,Non-Travel,Sales,3,Other,Male,3,Sales Executive,1,10932,3,1
+RM534,40,No,Travel_Frequently,Sales,4,Life Sciences,Male,3,Sales Executive,1,10475,4,18
+RM554,40,No,Travel_Rarely,Research & Development,1,Medical,Female,1,Research Scientist,4,2342,4,4
+RM583,40,No,Travel_Frequently,Research & Development,2,Medical,Female,2,Healthcare Representative,2,4244,4,8
+RM602,40,No,Travel_Frequently,Research & Development,4,Medical,Male,2,Laboratory Technician,3,5094,3,1
+RM685,40,No,Travel_Rarely,Sales,4,Marketing,Male,3,Sales Executive,2,9705,3,1
+RM692,40,No,Travel_Frequently,Research & Development,4,Medical,Male,1,Research Scientist,2,3617,3,1
+RM707,40,Yes,Non-Travel,Sales,3,Life Sciences,Female,4,Sales Executive,2,13194,3,1
+RM769,40,No,Travel_Rarely,Sales,3,Marketing,Male,2,Sales Executive,1,8396,3,7
+RM786,40,No,Travel_Rarely,Research & Development,4,Technical Degree,Male,3,Healthcare Representative,4,10322,4,11
+RM815,40,No,Travel_Rarely,Research & Development,3,Medical,Male,5,Research Director,3,19626,3,20
+RM838,40,No,Travel_Frequently,Research & Development,4,Medical,Female,3,Research Director,3,13499,3,18
+RM846,40,No,Travel_Frequently,Research & Development,2,Medical,Female,2,Research Scientist,4,4422,3,1
+RM867,40,No,Travel_Frequently,Sales,4,Medical,Male,2,Sales Executive,2,4327,3,0
+RM885,40,No,Travel_Rarely,Sales,3,Technical Degree,Female,2,Sales Executive,2,6852,3,5
+RM947,40,Yes,Travel_Rarely,Sales,4,Marketing,Male,3,Sales Executive,2,9094,3,5
+RM958,40,No,Non-Travel,Research & Development,2,Life Sciences,Male,1,Research Scientist,3,3544,3,4
+RM960,40,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Research Scientist,4,4661,3,9
+RM968,40,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,2,2387,4,4
+RM979,40,No,Travel_Rarely,Research & Development,1,Medical,Female,2,Healthcare Representative,3,6377,4,12
+RM1030,40,No,Non-Travel,Research & Development,4,Other,Male,2,Laboratory Technician,3,3975,3,8
+RM1041,40,No,Non-Travel,Research & Development,1,Medical,Male,3,Research Director,2,13757,3,9
+RM1046,40,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,3,2345,3,3
+RM1084,40,Yes,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,1,2018,3,5
+RM1095,40,No,Travel_Rarely,Sales,2,Medical,Male,2,Sales Executive,1,5473,3,8
+RM1097,40,No,Travel_Rarely,Human Resources,2,Medical,Male,4,Manager,4,16437,4,21
+RM1099,40,No,Non-Travel,Research & Development,2,Life Sciences,Male,2,Healthcare Representative,4,4069,3,2
+RM1133,40,No,Travel_Rarely,Sales,2,Life Sciences,Female,2,Sales Executive,1,4639,3,5
+RM1157,40,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,3,Manufacturing Director,3,10435,3,18
+RM1165,40,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,3,Manufacturing Director,4,7945,3,4
+RM1172,40,Yes,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,1,2166,3,4
+RM1230,40,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,2,Manufacturing Director,1,6516,3,1
+RM1243,40,No,Travel_Rarely,Sales,4,Medical,Male,5,Manager,2,19833,3,21
+RM1287,40,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,1,Laboratory Technician,1,3377,3,4
+RM1300,40,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,2,Healthcare Representative,4,6513,3,5
+RM1305,40,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,2,Healthcare Representative,1,4448,3,7
+RM1349,40,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,4,Manager,1,16823,3,19
+RM1410,40,No,Travel_Frequently,Research & Development,3,Technical Degree,Female,2,Laboratory Technician,3,6323,3,10
+RM1411,40,No,Travel_Rarely,Sales,2,Marketing,Female,2,Sales Executive,2,5677,3,11
+RM1428,40,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,4,2406,3,1
+RM1456,40,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Research Scientist,3,2809,3,2
+RM1458,40,No,Travel_Rarely,Research & Development,4,Medical,Female,1,Research Scientist,3,2001,3,5
+RM001,41,Yes,Travel_Rarely,Sales,2,Life Sciences,Female,2,Sales Executive,4,5993,3,6
+RM046,41,Yes,Travel_Rarely,Research & Development,3,Technical Degree,Female,5,Research Director,3,19545,3,22
+RM134,41,No,Travel_Rarely,Sales,1,Life Sciences,Male,3,Sales Executive,3,8189,3,9
+RM148,41,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,4,Manager,1,17181,3,7
+RM149,41,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,1,2238,4,5
+RM167,41,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,3,2451,3,9
+RM183,41,Yes,Travel_Rarely,Sales,2,Marketing,Female,1,Sales Representative,2,3140,4,4
+RM216,41,No,Travel_Rarely,Sales,3,Life Sciences,Female,3,Manager,4,13591,3,1
+RM243,41,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,2,Research Scientist,1,3072,3,1
+RM301,41,No,Travel_Rarely,Sales,4,Life Sciences,Male,4,Manager,2,16015,3,22
+RM347,41,No,Travel_Rarely,Research & Development,3,Medical,Male,2,Manufacturing Director,2,6032,3,5
+RM367,41,Yes,Travel_Frequently,Sales,3,Marketing,Male,2,Sales Executive,2,9355,3,8
+RM404,41,No,Travel_Rarely,Sales,3,Marketing,Male,3,Sales Executive,1,8392,3,10
+RM447,41,No,Non-Travel,Sales,2,Life Sciences,Male,2,Sales Executive,4,6230,3,14
+RM460,41,No,Non-Travel,Research & Development,4,Other,Female,2,Healthcare Representative,3,6811,3,8
+RM467,41,No,Travel_Rarely,Sales,5,Life Sciences,Female,4,Manager,1,16595,3,18
+RM536,41,No,Travel_Rarely,Human Resources,4,Human Resources,Male,5,Manager,4,19141,3,21
+RM539,41,No,Travel_Rarely,Human Resources,3,Human Resources,Male,5,Manager,3,19189,3,22
+RM668,41,Yes,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Laboratory Technician,4,2778,3,7
+RM687,41,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,1,4721,3,18
+RM717,41,No,Travel_Frequently,Research & Development,3,Medical,Male,5,Research Director,3,19419,3,18
+RM738,41,No,Travel_Rarely,Research & Development,2,Medical,Female,2,Manufacturing Director,3,5003,3,2
+RM747,41,No,Non-Travel,Research & Development,1,Life Sciences,Female,5,Research Director,3,19973,4,21
+RM784,41,No,Travel_Rarely,Research & Development,2,Technical Degree,Female,1,Research Scientist,3,3376,3,10
+RM831,41,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,4,4766,3,1
+RM865,41,Yes,Non-Travel,Research & Development,2,Life Sciences,Male,1,Research Scientist,1,2107,3,1
+RM952,41,No,Non-Travel,Sales,2,Medical,Male,2,Sales Executive,2,6151,3,19
+RM961,41,No,Travel_Frequently,Sales,3,Marketing,Female,2,Sales Executive,1,4103,3,9
+RM989,41,No,Travel_Frequently,Research & Development,3,Life Sciences,Female,2,Research Scientist,4,5467,3,6
+RM1029,41,No,Travel_Rarely,Research & Development,5,Medical,Male,1,Research Scientist,3,2127,3,4
+RM1197,41,No,Travel_Rarely,Sales,2,Life Sciences,Male,3,Sales Executive,3,7082,3,2
+RM1219,41,No,Travel_Rarely,Sales,3,Marketing,Male,3,Sales Executive,3,9241,3,10
+RM1229,41,No,Non-Travel,Human Resources,3,Human Resources,Male,2,Human Resources,2,6430,3,3
+RM1267,41,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,1,2289,4,5
+RM1295,41,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Healthcare Representative,2,6870,3,3
+RM1296,41,No,Travel_Rarely,Sales,1,Marketing,Female,3,Sales Executive,3,10447,3,22
+RM1357,41,No,Travel_Rarely,Sales,3,Marketing,Female,2,Sales Executive,2,4393,4,5
+RM1421,41,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,4,2782,4,5
+RM1446,41,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,4,Manufacturing Director,2,13570,4,20
+RM1449,41,No,Travel_Rarely,Sales,3,Life Sciences,Male,2,Sales Executive,2,8938,3,5
+RM028,42,No,Travel_Rarely,Sales,4,Marketing,Male,2,Sales Executive,2,6825,3,9
+RM198,42,No,Non-Travel,Research & Development,2,Medical,Female,2,Manufacturing Director,3,5265,3,5
+RM232,42,No,Travel_Rarely,Research & Development,2,Technical Degree,Male,5,Manager,4,19232,3,22
+RM254,42,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,2,Research Scientist,1,6545,3,3
+RM257,42,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Laboratory Technician,1,2593,3,9
+RM282,42,No,Travel_Rarely,Sales,1,Life Sciences,Male,2,Sales Executive,3,4907,4,20
+RM296,42,No,Travel_Frequently,Sales,3,Marketing,Female,4,Sales Executive,2,13525,3,20
+RM349,42,No,Travel_Rarely,Research & Development,5,Life Sciences,Female,4,Research Director,4,15992,3,1
+RM351,42,No,Travel_Rarely,Human Resources,1,Technical Degree,Male,1,Human Resources,3,2696,3,3
+RM357,42,No,Travel_Rarely,Research & Development,4,Other,Male,2,Healthcare Representative,4,6781,4,1
+RM389,42,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Laboratory Technician,1,2576,3,5
+RM410,42,No,Travel_Frequently,Research & Development,2,Life Sciences,Female,2,Research Scientist,3,4556,3,5
+RM414,42,No,Travel_Frequently,Research & Development,4,Technical Degree,Female,2,Healthcare Representative,4,4523,3,6
+RM442,42,No,Travel_Frequently,Research & Development,2,Other,Male,1,Laboratory Technician,3,2093,3,2
+RM452,42,No,Travel_Rarely,Research & Development,3,Medical,Male,3,Manufacturing Director,1,7406,4,10
+RM489,42,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,2,Healthcare Representative,4,4089,3,10
+RM548,42,Yes,Travel_Frequently,Research & Development,3,Medical,Male,1,Research Scientist,3,2759,3,2
+RM585,42,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,5,Manager,4,18430,3,24
+RM598,42,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,2,Manufacturing Director,4,6062,3,4
+RM605,42,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Manufacturing Director,2,4434,3,9
+RM633,42,No,Travel_Frequently,Research & Development,1,Medical,Male,1,Research Scientist,4,2515,3,2
+RM644,42,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,2,Laboratory Technician,4,5231,3,5
+RM673,42,No,Travel_Rarely,Sales,2,Medical,Female,2,Sales Executive,3,6244,3,5
+RM742,42,No,Travel_Rarely,Sales,2,Marketing,Male,5,Manager,3,18303,3,1
+RM800,42,No,Travel_Rarely,Research & Development,2,Medical,Male,4,Manager,1,17665,3,22
+RM825,42,No,Travel_Rarely,Research & Development,3,Medical,Male,2,Laboratory Technician,4,4272,3,1
+RM839,42,Yes,Travel_Frequently,Sales,3,Life Sciences,Male,4,Sales Executive,1,13758,3,21
+RM840,42,No,Travel_Rarely,Sales,4,Marketing,Male,2,Sales Executive,1,5155,3,6
+RM879,42,No,Non-Travel,Human Resources,5,Medical,Male,2,Human Resources,1,6272,3,4
+RM888,42,No,Travel_Frequently,Research & Development,5,Medical,Female,3,Research Director,1,13191,3,1
+RM926,42,No,Travel_Rarely,Research & Development,4,Medical,Female,2,Research Scientist,2,2372,3,1
+RM955,42,No,Non-Travel,Research & Development,1,Life Sciences,Male,4,Manager,3,17861,3,20
+RM1000,42,No,Travel_Rarely,Human Resources,3,Human Resources,Female,4,Manager,1,16799,3,20
+RM1051,42,No,Travel_Frequently,Research & Development,2,Medical,Female,1,Laboratory Technician,4,3673,3,12
+RM1089,42,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,2,4841,3,1
+RM1094,42,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,3,Healthcare Representative,4,10124,3,20
+RM1130,42,No,Travel_Rarely,Research & Development,2,Other,Male,5,Manager,4,19613,4,1
+RM1264,42,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,2,2766,4,5
+RM1288,42,No,Travel_Rarely,Research & Development,3,Medical,Male,2,Healthcare Representative,1,5538,3,0
+RM1321,42,No,Non-Travel,Research & Development,4,Technical Degree,Male,1,Research Scientist,3,2936,4,6
+RM1326,42,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,3,3968,3,0
+RM1358,42,No,Travel_Rarely,Research & Development,3,Medical,Male,3,Research Director,1,13348,3,13
+RM1379,42,No,Travel_Rarely,Sales,4,Marketing,Male,2,Sales Executive,4,5087,3,0
+RM1405,42,No,Non-Travel,Research & Development,2,Life Sciences,Male,2,Research Scientist,3,4332,3,20
+RM1420,42,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Research Scientist,1,5410,3,4
+RM1444,42,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,5,Manager,3,18880,3,22
+RM036,43,No,Travel_Rarely,Research & Development,2,Medical,Female,1,Research Scientist,3,2645,3,5
+RM120,43,No,Travel_Frequently,Sales,2,Life Sciences,Male,4,Manager,4,16959,3,25
+RM131,43,No,Travel_Frequently,Research & Development,3,Medical,Female,1,Research Scientist,3,4739,3,3
+RM194,43,No,Non-Travel,Research & Development,3,Medical,Male,1,Research Scientist,4,2089,3,5
+RM236,43,No,Travel_Rarely,Sales,3,Marketing,Female,4,Manager,4,16064,4,17
+RM316,43,No,Travel_Frequently,Research & Development,4,Life Sciences,Female,1,Laboratory Technician,4,2455,3,8
+RM331,43,No,Travel_Frequently,Research & Development,4,Life Sciences,Female,2,Laboratory Technician,3,5257,3,9
+RM334,43,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,3,Healthcare Representative,1,9985,3,1
+RM391,43,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,4,Research Director,2,14336,3,25
+RM396,43,No,Travel_Frequently,Research & Development,3,Medical,Male,1,Laboratory Technician,4,2258,4,3
+RM397,43,No,Travel_Rarely,Research & Development,4,Other,Female,2,Healthcare Representative,3,4522,3,5
+RM490,43,No,Travel_Rarely,Research & Development,4,Other,Male,4,Research Director,4,16627,3,1
+RM492,43,No,Travel_Frequently,Research & Development,5,Medical,Male,2,Laboratory Technician,3,5679,3,8
+RM549,43,No,Travel_Frequently,Sales,3,Life Sciences,Male,2,Sales Executive,4,6804,3,2
+RM610,43,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,4,Research Director,1,17159,4,4
+RM651,43,No,Travel_Frequently,Research & Development,3,Life Sciences,Female,2,Healthcare Representative,4,5562,3,5
+RM662,43,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,2,Manufacturing Director,2,4765,4,1
+RM776,43,No,Travel_Rarely,Sales,3,Medical,Male,3,Sales Executive,4,10798,3,1
+RM813,43,No,Travel_Frequently,Research & Development,3,Life Sciences,Female,3,Manufacturing Director,1,10820,3,8
+RM850,43,Yes,Travel_Rarely,Sales,3,Marketing,Female,2,Sales Executive,3,5346,3,4
+RM899,43,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,5,Research Director,4,19740,3,8
+RM927,43,No,Travel_Rarely,Sales,4,Marketing,Female,3,Sales Executive,4,10231,3,21
+RM996,43,No,Travel_Rarely,Research & Development,3,Medical,Female,2,Research Scientist,3,4081,3,20
+RM1134,43,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,1,Laboratory Technician,2,4876,3,6
+RM1186,43,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,4,Research Director,3,17603,4,14
+RM1217,43,No,Travel_Rarely,Sales,3,Medical,Male,2,Sales Executive,4,7847,3,10
+RM1263,43,Yes,Travel_Frequently,Research & Development,3,Technical Degree,Male,1,Research Scientist,3,2437,3,1
+RM1270,43,No,Travel_Rarely,Human Resources,3,Life Sciences,Male,1,Human Resources,4,3539,3,9
+RM1294,43,No,Non-Travel,Research & Development,3,Life Sciences,Male,1,Research Scientist,3,2438,3,3
+RM1317,43,No,Travel_Frequently,Sales,4,Life Sciences,Male,2,Sales Executive,4,5675,4,7
+RM1331,43,No,Travel_Rarely,Research & Development,3,Medical,Female,5,Manager,3,19392,3,16
+RM1400,43,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,3,Healthcare Representative,3,7510,3,10
+RM029,44,No,Travel_Rarely,Research & Development,4,Medical,Female,3,Healthcare Representative,4,10248,3,22
+RM032,44,No,Travel_Rarely,Research & Development,4,Other,Male,2,Healthcare Representative,4,6465,3,4
+RM053,44,No,Travel_Rarely,Sales,5,Marketing,Female,2,Sales Executive,1,5454,4,4
+RM100,44,No,Non-Travel,Research & Development,3,Medical,Male,2,Laboratory Technician,2,2042,3,3
+RM287,44,Yes,Travel_Frequently,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,3,3161,4,1
+RM494,44,No,Travel_Rarely,Human Resources,4,Life Sciences,Female,2,Human Resources,3,5985,3,2
+RM498,44,No,Travel_Rarely,Research & Development,4,Other,Male,5,Manager,4,19513,3,2
+RM544,44,No,Non-Travel,Research & Development,3,Medical,Male,1,Laboratory Technician,3,3708,3,5
+RM618,44,No,Travel_Rarely,Research & Development,3,Medical,Male,2,Healthcare Representative,2,5933,3,5
+RM632,44,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,4,2818,4,3
+RM659,44,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Research Scientist,1,2559,3,8
+RM751,44,No,Travel_Rarely,Sales,3,Medical,Female,4,Sales Executive,4,13320,3,12
+RM790,44,Yes,Travel_Rarely,Human Resources,2,Medical,Male,3,Human Resources,1,10482,3,20
+RM858,44,Yes,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Research Scientist,3,2936,3,6
+RM863,44,No,Non-Travel,Research & Development,3,Life Sciences,Male,1,Research Scientist,3,2290,3,0
+RM876,44,No,Travel_Rarely,Research & Development,4,Other,Male,2,Research Scientist,4,4541,4,20
+RM892,44,No,Travel_Rarely,Research & Development,1,Life Sciences,Female,1,Research Scientist,4,2011,3,10
+RM908,44,No,Travel_Rarely,Sales,3,Marketing,Male,5,Manager,2,18213,3,22
+RM923,44,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,5,Manager,1,19190,3,25
+RM929,44,Yes,Travel_Rarely,Research & Development,3,Medical,Female,3,Healthcare Representative,4,7978,3,10
+RM954,44,Yes,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,1,2362,3,3
+RM1043,44,No,Non-Travel,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,3,3162,3,5
+RM1047,44,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,2,3420,3,5
+RM1052,44,No,Travel_Frequently,Sales,5,Marketing,Female,2,Sales Executive,3,4768,3,1
+RM1063,44,No,Travel_Frequently,Research & Development,1,Medical,Male,3,Manufacturing Director,3,10209,3,2
+RM1079,44,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,4,Research Director,1,16328,3,20
+RM1141,44,No,Travel_Rarely,Research & Development,3,Medical,Female,5,Research Director,4,19049,3,22
+RM1166,44,No,Travel_Frequently,Human Resources,5,Human Resources,Male,2,Human Resources,4,5743,3,10
+RM1201,44,No,Travel_Rarely,Human Resources,3,Life Sciences,Female,1,Human Resources,4,3195,3,2
+RM1215,44,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,3,Healthcare Representative,4,7879,3,8
+RM1280,44,Yes,Travel_Frequently,Research & Development,2,Medical,Male,1,Research Scientist,2,2342,3,5
+RM1353,44,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Healthcare Representative,1,5033,3,2
+RM1436,44,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,4,2436,3,4
+RM068,45,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,3,Research Scientist,1,9724,3,1
+RM078,45,No,Travel_Rarely,Research & Development,4,Other,Male,3,Research Director,1,13245,3,0
+RM142,45,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Research Scientist,4,3452,3,6
+RM154,45,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Laboratory Technician,2,2348,3,17
+RM175,45,No,Travel_Rarely,Sales,2,Life Sciences,Female,2,Sales Executive,1,5006,3,5
+RM195,45,No,Non-Travel,Research & Development,2,Medical,Male,4,Manager,4,16792,4,20
+RM219,45,No,Non-Travel,Sales,3,Medical,Female,3,Sales Executive,4,8865,3,19
+RM245,45,No,Travel_Rarely,Research & Development,3,Other,Male,5,Manager,4,19202,3,24
+RM250,45,No,Travel_Frequently,Research & Development,4,Life Sciences,Male,2,Manufacturing Director,3,6434,3,3
+RM269,45,No,Travel_Rarely,Research & Development,2,Medical,Male,4,Healthcare Representative,4,13496,3,20
+RM312,45,No,Travel_Frequently,Research & Development,3,Life Sciences,Male,3,Laboratory Technician,1,5210,3,24
+RM335,45,No,Travel_Rarely,Research & Development,4,Other,Male,2,Research Scientist,4,3697,3,10
+RM408,45,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Research Scientist,4,2654,4,2
+RM453,45,No,Travel_Rarely,Sales,3,Other,Male,2,Sales Executive,2,4805,3,8
+RM505,45,Yes,Travel_Frequently,Sales,4,Life Sciences,Female,2,Sales Executive,1,4286,3,1
+RM565,45,No,Travel_Rarely,Sales,2,Technical Degree,Male,2,Sales Representative,3,6632,3,8
+RM604,45,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,3,2274,3,1
+RM626,45,No,Travel_Rarely,Sales,3,Marketing,Male,3,Sales Executive,1,10761,3,5
+RM697,45,No,Non-Travel,Research & Development,2,Life Sciences,Male,2,Laboratory Technician,2,4447,3,9
+RM714,45,No,Travel_Rarely,Research & Development,4,Medical,Female,1,Laboratory Technician,4,2270,3,5
+RM719,45,No,Non-Travel,Research & Development,2,Life Sciences,Male,2,Laboratory Technician,1,3633,3,9
+RM756,45,No,Travel_Rarely,Sales,2,Life Sciences,Female,4,Manager,4,17650,3,9
+RM760,45,No,Travel_Rarely,Human Resources,4,Medical,Male,1,Human Resources,2,2177,3,6
+RM806,45,No,Non-Travel,Sales,4,Life Sciences,Female,2,Sales Executive,3,5593,3,15
+RM855,45,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Research Scientist,3,4477,3,3
+RM914,45,Yes,Travel_Rarely,Sales,3,Marketing,Female,5,Manager,2,18824,3,24
+RM937,45,No,Travel_Frequently,Research & Development,3,Medical,Female,5,Manager,2,18061,4,0
+RM1035,45,No,Travel_Rarely,Research & Development,3,Medical,Male,3,Healthcare Representative,1,10851,3,7
+RM1038,45,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,3,Manufacturing Director,4,9380,3,3
+RM1093,45,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,1,Research Scientist,4,2132,4,5
+RM1100,45,No,Travel_Rarely,Research & Development,4,Technical Degree,Male,3,Healthcare Representative,2,7441,3,10
+RM1143,45,No,Travel_Rarely,Research & Development,5,Medical,Female,2,Laboratory Technician,1,5769,3,10
+RM1144,45,No,Non-Travel,Sales,3,Marketing,Male,2,Sales Executive,1,4385,3,10
+RM1161,45,No,Travel_Rarely,Research & Development,2,Other,Female,2,Manufacturing Director,4,5770,3,10
+RM1222,45,No,Non-Travel,Research & Development,1,Life Sciences,Male,3,Healthcare Representative,3,10748,4,23
+RM1226,45,No,Travel_Rarely,Research & Development,2,Technical Degree,Female,4,Research Director,2,16704,3,21
+RM1244,45,No,Travel_Rarely,Human Resources,3,Life Sciences,Female,3,Human Resources,3,9756,4,5
+RM1315,45,No,Non-Travel,Sales,4,Life Sciences,Female,2,Sales Executive,3,5154,4,8
+RM1347,45,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,2,Manufacturing Director,4,5906,3,9
+RM1363,45,No,Travel_Frequently,Research & Development,4,Medical,Male,2,Healthcare Representative,3,5399,3,4
+RM1455,45,No,Travel_Rarely,Sales,3,Life Sciences,Female,2,Sales Executive,3,4850,3,5
+RM030,46,No,Travel_Rarely,Sales,4,Marketing,Female,5,Manager,1,18947,3,2
+RM049,46,No,Travel_Frequently,Sales,4,Marketing,Male,2,Sales Executive,4,5772,4,9
+RM080,46,No,Travel_Rarely,Human Resources,2,Medical,Male,2,Human Resources,2,5021,4,4
+RM090,46,Yes,Travel_Rarely,Sales,2,Medical,Male,3,Sales Executive,4,9619,3,9
+RM094,46,No,Travel_Frequently,Research & Development,3,Medical,Male,3,Healthcare Representative,1,10673,3,10
+RM179,46,No,Travel_Rarely,Sales,2,Marketing,Female,3,Sales Executive,1,10453,4,24
+RM210,46,No,Travel_Rarely,Research & Development,4,Medical,Male,3,Healthcare Representative,1,9396,3,4
+RM264,46,No,Travel_Rarely,Sales,3,Technical Degree,Female,4,Manager,2,16872,3,7
+RM366,46,No,Non-Travel,Research & Development,4,Medical,Female,2,Manufacturing Director,3,5258,3,1
+RM413,46,No,Travel_Rarely,Research & Development,3,Medical,Female,2,Manufacturing Director,3,4810,3,10
+RM430,46,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,4,Research Director,3,17861,3,3
+RM434,46,No,Travel_Rarely,Sales,3,Marketing,Female,3,Sales Executive,4,9071,3,3
+RM466,46,No,Travel_Frequently,Research & Development,1,Medical,Female,3,Healthcare Representative,3,10527,3,2
+RM724,46,No,Travel_Rarely,Research & Development,2,Medical,Male,3,Manufacturing Director,3,10845,3,8
+RM771,46,No,Travel_Rarely,Research & Development,4,Medical,Male,5,Research Director,4,19627,3,2
+RM779,46,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,2,Research Scientist,1,4615,4,16
+RM811,46,No,Travel_Rarely,Sales,1,Marketing,Male,4,Manager,3,17465,3,12
+RM862,46,No,Travel_Rarely,Sales,3,Marketing,Female,4,Manager,1,17048,4,26
+RM870,46,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,5,Research Director,2,19081,3,4
+RM878,46,No,Travel_Rarely,Research & Development,4,Technical Degree,Male,2,Manufacturing Director,4,7379,3,6
+RM917,46,No,Travel_Rarely,Sales,2,Marketing,Female,5,Manager,2,18789,3,11
+RM944,46,No,Travel_Rarely,Human Resources,2,Life Sciences,Female,1,Human Resources,1,3423,3,7
+RM1032,46,Yes,Travel_Rarely,Sales,3,Marketing,Male,3,Sales Executive,4,10096,3,7
+RM1081,46,No,Travel_Rarely,Sales,3,Life Sciences,Female,4,Manager,2,16606,3,13
+RM1136,46,No,Travel_Rarely,Sales,4,Life Sciences,Male,4,Manager,1,17567,3,26
+RM1232,46,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Healthcare Representative,2,5562,3,10
+RM1236,46,No,Travel_Rarely,Sales,3,Life Sciences,Male,3,Sales Executive,4,10368,3,10
+RM1278,46,No,Travel_Rarely,Research & Development,4,Medical,Male,5,Research Director,4,19328,3,2
+RM1286,46,No,Non-Travel,Sales,2,Life Sciences,Male,2,Sales Executive,2,7991,3,2
+RM1299,46,Yes,Travel_Rarely,Research & Development,2,Medical,Female,2,Healthcare Representative,2,8926,4,9
+RM1323,46,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,3,Manufacturing Director,4,8578,3,9
+RM1328,46,No,Travel_Rarely,Sales,3,Technical Degree,Female,4,Sales Executive,1,13225,3,19
+RM1334,46,Yes,Travel_Rarely,Sales,3,Life Sciences,Female,3,Sales Executive,2,7314,4,8
+RM272,47,Yes,Non-Travel,Research & Development,4,Life Sciences,Male,3,Manager,2,11849,3,10
+RM330,47,No,Travel_Rarely,Research & Development,5,Life Sciences,Male,5,Research Director,3,18300,3,3
+RM348,47,No,Travel_Frequently,Sales,1,Medical,Male,2,Sales Representative,3,2976,3,0
+RM429,47,No,Travel_Rarely,Research & Development,2,Medical,Female,2,Manufacturing Director,4,5070,3,5
+RM533,47,No,Travel_Rarely,Sales,4,Marketing,Male,2,Sales Executive,1,4960,3,7
+RM545,47,No,Travel_Frequently,Sales,3,Medical,Female,4,Sales Executive,3,13770,3,22
+RM567,47,Yes,Travel_Frequently,Sales,2,Life Sciences,Female,2,Sales Executive,3,6397,3,5
+RM593,47,No,Travel_Rarely,Research & Development,2,Other,Female,4,Manager,4,16752,3,26
+RM652,47,No,Travel_Rarely,Sales,2,Marketing,Female,2,Sales Executive,4,4537,4,7
+RM666,47,No,Travel_Rarely,Sales,4,Life Sciences,Female,1,Sales Representative,4,3294,3,3
+RM708,47,No,Travel_Frequently,Research & Development,4,Medical,Male,2,Manufacturing Director,3,5067,3,19
+RM720,47,No,Travel_Rarely,Sales,2,Life Sciences,Female,2,Sales Executive,4,4163,3,9
+RM1021,47,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,1,Research Scientist,4,3420,3,6
+RM1025,47,No,Travel_Rarely,Research & Development,4,Medical,Female,4,Research Director,3,17169,3,20
+RM1068,47,No,Travel_Rarely,Sales,3,Medical,Female,2,Sales Executive,3,4591,3,5
+RM1155,47,No,Travel_Rarely,Human Resources,4,Life Sciences,Female,5,Manager,3,19658,3,5
+RM1195,47,No,Travel_Rarely,Sales,4,Life Sciences,Female,4,Manager,2,15972,3,3
+RM1224,47,Yes,Travel_Frequently,Sales,3,Life Sciences,Male,4,Sales Executive,3,12936,3,23
+RM1235,47,No,Non-Travel,Sales,4,Marketing,Male,2,Sales Executive,2,4978,3,1
+RM1304,47,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,3,Manufacturing Director,2,10333,3,22
+RM1322,47,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Laboratory Technician,3,2105,3,2
+RM1371,47,No,Non-Travel,Research & Development,4,Technical Degree,Male,2,Research Scientist,2,5467,3,8
+RM1415,47,No,Travel_Rarely,Research & Development,3,Medical,Male,3,Healthcare Representative,3,8633,4,17
+RM1422,47,No,Non-Travel,Research & Development,1,Medical,Female,3,Research Director,2,11957,3,13
+RM051,48,Yes,Travel_Rarely,Research & Development,2,Life Sciences,Male,3,Laboratory Technician,3,5381,3,1
+RM353,48,No,Travel_Rarely,Sales,1,Medical,Female,3,Manager,3,12504,4,0
+RM445,48,No,Travel_Rarely,Sales,5,Marketing,Female,2,Sales Executive,4,4051,3,9
+RM493,48,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,4,Manager,1,15402,3,3
+RM521,48,No,Travel_Rarely,Sales,1,Marketing,Male,2,Sales Executive,2,8120,3,2
+RM679,48,No,Travel_Rarely,Research & Development,4,Medical,Male,1,Research Scientist,3,2259,3,0
+RM736,48,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Healthcare Representative,3,4240,3,2
+RM737,48,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,3,Healthcare Representative,3,10999,3,15
+RM805,48,No,Non-Travel,Research & Development,4,Medical,Male,4,Manager,4,16885,4,5
+RM902,48,No,Travel_Rarely,Research & Development,2,Technical Degree,Male,1,Laboratory Technician,2,2559,3,1
+RM905,48,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,5,Research Director,4,18265,3,1
+RM970,48,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,3,Manufacturing Director,4,7898,3,10
+RM1039,48,No,Travel_Rarely,Sales,3,Marketing,Male,2,Sales Executive,1,5486,3,2
+RM1104,48,No,Travel_Rarely,Sales,4,Life Sciences,Female,2,Sales Executive,3,6439,3,8
+RM1115,48,No,Travel_Rarely,Research & Development,4,Other,Female,1,Research Scientist,1,2367,3,8
+RM1167,48,No,Travel_Frequently,Research & Development,5,Medical,Male,4,Manager,4,15202,4,2
+RM1205,48,Yes,Travel_Frequently,Sales,2,Medical,Female,1,Sales Representative,3,2655,3,9
+RM1332,48,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,5,Research Director,2,19665,3,22
+RM1352,48,No,Travel_Frequently,Research & Development,3,Medical,Female,4,Manager,4,17174,3,22
+RM002,49,No,Travel_Frequently,Research & Development,1,Life Sciences,Male,2,Research Scientist,2,5130,4,10
+RM130,49,No,Travel_Rarely,Research & Development,4,Medical,Female,2,Manufacturing Director,1,6567,3,15
+RM202,49,No,Non-Travel,Research & Development,4,Life Sciences,Male,2,Manufacturing Director,4,6804,3,7
+RM291,49,No,Travel_Frequently,Research & Development,4,Life Sciences,Female,5,Research Director,1,18665,3,3
+RM317,49,No,Travel_Rarely,Research & Development,2,Technical Degree,Female,4,Healthcare Representative,3,13964,3,7
+RM376,49,No,Travel_Rarely,Research & Development,3,Other,Male,3,Healthcare Representative,3,10965,4,5
+RM474,49,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,5,Research Director,3,19502,3,31
+RM608,49,Yes,Travel_Rarely,Sales,3,Marketing,Female,3,Sales Executive,4,7654,3,9
+RM640,49,No,Travel_Rarely,Research & Development,3,Technical Degree,Female,1,Research Scientist,1,3580,3,4
+RM678,49,No,Travel_Rarely,Research & Development,2,Other,Female,3,Laboratory Technician,2,7403,3,26
+RM822,49,No,Travel_Rarely,Sales,4,Technical Degree,Male,4,Sales Executive,2,13120,3,9
+RM900,49,No,Travel_Rarely,Research & Development,2,Medical,Male,5,Manager,3,18711,3,1
+RM1007,49,Yes,Travel_Frequently,Research & Development,2,Life Sciences,Male,2,Laboratory Technician,1,4284,4,4
+RM1045,49,No,Travel_Rarely,Research & Development,4,Technical Degree,Male,2,Healthcare Representative,3,6651,3,3
+RM1055,49,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,3,Healthcare Representative,2,10466,3,8
+RM1072,49,No,Travel_Rarely,Research & Development,2,Medical,Female,2,Laboratory Technician,1,4789,4,3
+RM1148,49,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Laboratory Technician,1,3211,3,9
+RM1177,49,No,Travel_Rarely,Research & Development,4,Other,Female,4,Research Director,2,16413,3,4
+RM1182,49,No,Travel_Rarely,Research & Development,1,Life Sciences,Female,4,Healthcare Representative,3,13966,3,15
+RM1193,49,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Laboratory Technician,1,2587,3,2
+RM1196,49,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,4,Manager,3,15379,3,8
+RM1255,49,No,Travel_Rarely,Sales,4,Marketing,Female,2,Sales Executive,4,4507,3,5
+RM1378,49,No,Travel_Frequently,Research & Development,1,Life Sciences,Male,5,Research Director,4,19161,3,5
+RM1469,49,No,Travel_Frequently,Sales,3,Medical,Male,2,Sales Executive,2,5390,3,9
+RM1469,49,No,Travel_Frequently,Sales,3,Medical,Male,2,Sales Executive,2,5390,3,9
+RM037,50,Yes,Travel_Rarely,Sales,2,Marketing,Male,1,Sales Representative,3,2683,3,3
+RM063,50,No,Travel_Rarely,Research & Development,2,Medical,Female,5,Research Director,3,18740,3,27
+RM107,50,No,Travel_Frequently,Research & Development,3,Life Sciences,Female,5,Research Director,2,18172,3,8
+RM132,50,No,Travel_Frequently,Sales,3,Marketing,Female,3,Sales Executive,4,9208,3,2
+RM166,50,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,5,Manager,2,19926,3,5
+RM184,50,No,Travel_Rarely,Research & Development,3,Medical,Male,1,Laboratory Technician,3,3690,3,3
+RM234,50,No,Travel_Rarely,Sales,4,Medical,Female,5,Manager,4,19517,3,7
+RM280,50,No,Travel_Rarely,Research & Development,1,Life Sciences,Male,5,Research Director,2,19144,3,10
+RM368,50,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,3,Healthcare Representative,4,10496,3,4
+RM426,50,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,4,Manager,3,17046,3,27
+RM478,50,No,Travel_Frequently,Human Resources,3,Medical,Male,5,Manager,2,18200,3,32
+RM524,50,No,Travel_Rarely,Research & Development,1,Medical,Male,1,Laboratory Technician,3,3221,3,20
+RM529,50,Yes,Travel_Frequently,Sales,2,Technical Degree,Male,2,Sales Executive,3,6796,3,4
+RM540,50,No,Travel_Rarely,Sales,4,Marketing,Male,1,Sales Representative,2,3875,3,2
+RM589,50,No,Travel_Rarely,Research & Development,3,Medical,Male,4,Research Director,3,17639,3,4
+RM654,50,No,Non-Travel,Research & Development,4,Life Sciences,Male,4,Manager,1,17924,3,31
+RM715,50,No,Travel_Rarely,Research & Development,2,Medical,Male,4,Research Director,4,17399,4,5
+RM722,50,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,4,Manufacturing Director,3,13973,3,12
+RM743,50,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Laboratory Technician,4,2380,3,1
+RM752,50,No,Non-Travel,Sales,3,Life Sciences,Female,2,Sales Executive,3,6347,3,18
+RM767,50,No,Travel_Rarely,Research & Development,4,Medical,Male,5,Research Director,3,19237,3,8
+RM802,50,Yes,Travel_Frequently,Sales,4,Other,Male,2,Sales Executive,3,4728,3,0
+RM868,50,No,Travel_Frequently,Research & Development,3,Medical,Female,4,Manager,1,17856,4,2
+RM946,50,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,4,Research Director,1,16880,3,3
+RM1087,50,No,Travel_Frequently,Research & Development,5,Medical,Male,4,Research Director,4,14411,3,32
+RM1127,50,No,Travel_Rarely,Sales,3,Marketing,Male,5,Manager,3,19331,3,1
+RM1139,50,No,Travel_Frequently,Research & Development,5,Medical,Male,4,Healthcare Representative,3,11245,3,30
+RM1178,50,No,Travel_Rarely,Research & Development,5,Life Sciences,Female,3,Research Director,1,13269,3,14
+RM1453,50,Yes,Travel_Frequently,Sales,4,Life Sciences,Male,2,Sales Executive,3,6728,3,6
+RM1462,50,Yes,Travel_Rarely,Sales,3,Marketing,Male,3,Sales Executive,1,10854,3,3
+RM1462,50,Yes,Travel_Rarely,Sales,3,Marketing,Male,3,Sales Executive,1,10854,3,3
+RM088,51,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Laboratory Technician,4,2075,4,4
+RM092,51,No,Travel_Rarely,Sales,4,Marketing,Male,2,Sales Executive,4,5441,4,10
+RM111,51,No,Travel_Frequently,Research & Development,4,Medical,Female,3,Healthcare Representative,1,7484,4,13
+RM124,51,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,5,Research Director,3,19537,3,20
+RM137,51,Yes,Travel_Frequently,Research & Development,4,Life Sciences,Male,3,Manufacturing Director,4,10650,3,4
+RM157,51,No,Travel_Rarely,Research & Development,4,Medical,Male,2,Manufacturing Director,3,6132,3,1
+RM190,51,No,Travel_Rarely,Research & Development,3,Medical,Female,4,Healthcare Representative,2,13734,3,7
+RM214,51,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,3,Research Director,2,12490,3,10
+RM259,51,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,4,2723,3,1
+RM300,51,No,Travel_Rarely,Research & Development,3,Medical,Male,2,Manufacturing Director,2,5482,3,4
+RM377,51,No,Travel_Rarely,Sales,2,Life Sciences,Female,2,Sales Executive,4,4936,3,7
+RM617,51,No,Travel_Rarely,Sales,4,Marketing,Female,4,Manager,3,16307,3,20
+RM780,51,Yes,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Research Scientist,3,2461,3,10
+RM919,51,No,Travel_Frequently,Sales,3,Life Sciences,Male,5,Manager,2,19847,4,29
+RM931,51,No,Travel_Frequently,Research & Development,2,Medical,Female,1,Laboratory Technician,3,2838,3,7
+RM963,51,No,Travel_Rarely,Human Resources,3,Life Sciences,Male,4,Manager,2,14026,3,33
+RM972,51,No,Travel_Rarely,Research & Development,2,Technical Degree,Female,4,Manufacturing Director,2,13142,3,5
+RM988,51,No,Travel_Frequently,Sales,3,Marketing,Male,3,Sales Executive,2,10596,3,4
+RM1276,51,No,Travel_Rarely,Research & Development,3,Technical Degree,Female,3,Manager,3,13116,3,2
+RM191,52,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,5,Manager,3,19999,3,33
+RM231,52,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Laboratory Technician,4,3212,3,2
+RM238,52,No,Non-Travel,Sales,4,Life Sciences,Male,5,Manager,3,19068,3,33
+RM318,52,Yes,Travel_Rarely,Research & Development,4,Medical,Male,2,Research Scientist,2,4941,3,8
+RM407,52,No,Travel_Rarely,Research & Development,3,Medical,Male,3,Manufacturing Director,3,7969,3,5
+RM409,52,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,4,Manager,4,16555,3,5
+RM469,52,No,Travel_Rarely,Research & Development,2,Technical Degree,Male,2,Research Scientist,1,5577,3,10
+RM562,52,No,Travel_Rarely,Sales,4,Marketing,Male,4,Manager,1,16856,3,34
+RM571,52,No,Non-Travel,Research & Development,4,Medical,Male,1,Research Scientist,4,4258,3,4
+RM588,52,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,2,Laboratory Technician,3,3149,4,5
+RM628,52,No,Travel_Frequently,Research & Development,4,Medical,Female,4,Manufacturing Director,4,13826,4,9
+RM700,52,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,4,Manager,4,17099,3,9
+RM750,52,Yes,Travel_Rarely,Sales,1,Marketing,Female,5,Manager,4,19845,3,32
+RM807,52,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,3,Healthcare Representative,2,10445,3,8
+RM948,52,Yes,Travel_Rarely,Sales,3,Life Sciences,Male,3,Sales Executive,2,8446,3,8
+RM995,52,No,Travel_Frequently,Research & Development,2,Medical,Female,4,Manufacturing Director,3,13247,3,5
+RM1001,52,No,Travel_Rarely,Research & Development,4,Other,Female,1,Laboratory Technician,1,2950,3,5
+RM1435,52,No,Non-Travel,Sales,4,Life Sciences,Male,1,Sales Representative,4,3482,3,9
+RM019,53,No,Travel_Rarely,Sales,4,Life Sciences,Female,4,Manager,4,15427,3,25
+RM026,53,No,Travel_Rarely,Research & Development,3,Other,Female,5,Manager,3,19094,3,14
+RM153,53,No,Travel_Rarely,Sales,2,Marketing,Male,2,Sales Representative,3,2306,4,7
+RM185,53,No,Travel_Rarely,Research & Development,2,Medical,Female,2,Manufacturing Director,1,4450,3,4
+RM281,53,No,Travel_Rarely,Research & Development,4,Medical,Male,4,Research Director,3,17584,3,5
+RM503,53,No,Travel_Rarely,Sales,1,Medical,Female,2,Sales Executive,1,8381,4,14
+RM535,53,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,4,Research Director,3,14814,3,5
+RM557,53,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,2,Laboratory Technician,4,2450,3,2
+RM625,53,No,Travel_Rarely,Sales,2,Marketing,Female,3,Sales Executive,4,10934,3,5
+RM647,53,No,Travel_Rarely,Sales,3,Marketing,Male,4,Sales Executive,4,11836,3,2
+RM650,53,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,4,Research Director,4,14275,3,12
+RM702,53,No,Travel_Rarely,Sales,2,Medical,Male,4,Manager,3,14852,3,17
+RM761,53,No,Travel_Frequently,Sales,3,Marketing,Female,3,Sales Executive,2,7525,3,15
+RM859,53,No,Travel_Rarely,Research & Development,2,Medical,Female,5,Manager,3,18606,3,7
+RM1044,53,No,Travel_Rarely,Research & Development,3,Medical,Male,4,Research Director,2,16598,3,9
+RM1112,53,Yes,Travel_Rarely,Research & Development,5,Technical Degree,Female,3,Manufacturing Director,4,10169,3,33
+RM1204,53,No,Travel_Rarely,Research & Development,4,Medical,Male,3,Healthcare Representative,4,7005,3,4
+RM1269,53,No,Non-Travel,Research & Development,4,Medical,Female,4,Manufacturing Director,3,12965,4,3
+RM1397,53,Yes,Travel_Rarely,Sales,4,Life Sciences,Male,3,Sales Executive,1,10448,3,2
+RM096,54,No,Travel_Rarely,Research & Development,4,Technical Degree,Female,3,Research Director,3,13549,3,4
+RM113,54,No,Non-Travel,Human Resources,3,Human Resources,Female,4,Manager,4,17328,3,5
+RM220,54,No,Travel_Rarely,Sales,3,Marketing,Female,2,Sales Executive,1,5940,3,6
+RM333,54,No,Travel_Frequently,Research & Development,4,Life Sciences,Female,2,Research Scientist,3,4869,3,4
+RM393,54,No,Travel_Rarely,Research & Development,2,Medical,Male,5,Research Director,1,19406,3,4
+RM432,54,No,Travel_Rarely,Research & Development,4,Life Sciences,Female,2,Laboratory Technician,3,3780,3,1
+RM511,54,No,Travel_Rarely,Human Resources,4,Medical,Male,3,Human Resources,2,10725,3,9
+RM576,54,No,Travel_Rarely,Research & Development,4,Medical,Female,2,Manufacturing Director,1,5485,3,5
+RM729,54,No,Travel_Rarely,Research & Development,3,Technical Degree,Female,3,Manufacturing Director,3,10739,3,10
+RM772,54,No,Travel_Rarely,Sales,4,Life Sciences,Female,3,Sales Executive,3,10686,3,9
+RM891,54,No,Travel_Frequently,Research & Development,4,Life Sciences,Female,3,Manufacturing Director,3,10502,3,5
+RM895,54,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,4,Research Director,4,17779,3,10
+RM1009,54,No,Travel_Rarely,Research & Development,3,Medical,Female,4,Research Director,4,17328,3,20
+RM1077,54,No,Travel_Frequently,Research & Development,4,Medical,Female,4,Manager,4,16032,4,14
+RM1185,54,No,Travel_Rarely,Research & Development,5,Medical,Female,4,Manager,3,17426,4,10
+RM1306,54,No,Travel_Rarely,Research & Development,4,Medical,Female,2,Research Scientist,4,6854,3,7
+RM1398,54,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,2,Research Scientist,3,2897,3,4
+RM1407,54,No,Travel_Rarely,Research & Development,3,Medical,Female,2,Manufacturing Director,1,4440,3,5
+RM066,55,No,Travel_Rarely,Research & Development,3,Medical,Female,4,Manager,3,14756,3,5
+RM083,55,No,Travel_Rarely,Sales,2,Life Sciences,Male,3,Sales Executive,4,10239,3,1
+RM188,55,No,Travel_Rarely,Research & Development,4,Medical,Male,5,Research Director,2,18722,3,24
+RM271,55,No,Travel_Rarely,Research & Development,3,Medical,Male,5,Manager,1,19045,3,36
+RM284,55,No,Travel_Rarely,Research & Development,2,Technical Degree,Male,2,Laboratory Technician,4,5415,3,10
+RM380,55,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,4,Manager,4,16659,3,5
+RM446,55,No,Travel_Rarely,Sales,5,Life Sciences,Female,4,Manager,2,16835,4,10
+RM569,55,Yes,Travel_Rarely,Research & Development,3,Medical,Male,5,Manager,1,19859,3,5
+RM609,55,Yes,Travel_Rarely,Sales,1,Medical,Male,2,Sales Executive,4,5160,3,9
+RM746,55,No,Travel_Frequently,Research & Development,4,Medical,Male,2,Healthcare Representative,2,6385,3,8
+RM775,55,No,Non-Travel,Research & Development,1,Medical,Male,4,Manager,1,16756,3,9
+RM788,55,No,Travel_Frequently,Research & Development,1,Life Sciences,Male,3,Manufacturing Director,2,10976,3,3
+RM915,55,No,Non-Travel,Research & Development,1,Medical,Male,4,Healthcare Representative,2,13577,3,33
+RM956,55,No,Travel_Rarely,Research & Development,2,Medical,Female,5,Manager,3,19187,3,19
+RM976,55,Yes,Travel_Rarely,Sales,4,Marketing,Male,4,Sales Executive,3,13695,3,19
+RM1011,55,No,Travel_Rarely,Research & Development,4,Medical,Male,4,Research Director,4,14732,3,7
+RM1066,55,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,2,Healthcare Representative,3,4035,3,3
+RM1117,55,No,Travel_Rarely,Sales,5,Marketing,Male,5,Manager,4,19586,4,36
+RM1208,55,No,Travel_Rarely,Research & Development,3,Technical Degree,Male,1,Research Scientist,2,3537,3,4
+RM1265,55,No,Travel_Rarely,Research & Development,3,Medical,Male,5,Research Director,1,19038,3,1
+RM1337,55,No,Travel_Rarely,Research & Development,4,Technical Degree,Male,1,Research Scientist,4,2662,4,5
+RM1402,55,No,Travel_Rarely,Human Resources,4,Human Resources,Male,5,Manager,2,19636,3,10
+RM086,56,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,3,Manufacturing Director,4,7260,3,6
+RM123,56,Yes,Travel_Rarely,Research & Development,4,Life Sciences,Female,1,Research Scientist,2,4963,3,5
+RM176,56,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,1,Research Scientist,1,4257,3,2
+RM402,56,No,Travel_Frequently,Sales,3,Life Sciences,Female,4,Sales Executive,1,13212,3,7
+RM553,56,No,Travel_Rarely,Research & Development,3,Medical,Male,4,Healthcare Representative,4,11103,3,10
+RM773,56,No,Travel_Frequently,Research & Development,3,Medical,Female,1,Research Scientist,3,2942,3,5
+RM852,56,No,Travel_Rarely,Research & Development,4,Technical Degree,Female,5,Manager,1,19943,3,5
+RM957,56,No,Travel_Rarely,Human Resources,4,Life Sciences,Male,5,Manager,2,19717,3,7
+RM977,56,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,4,Manufacturing Director,2,13402,3,19
+RM1024,56,No,Travel_Rarely,Research & Development,2,Life Sciences,Female,1,Research Scientist,1,2066,4,3
+RM1355,56,Yes,Travel_Rarely,Research & Development,2,Life Sciences,Male,1,Laboratory Technician,4,2587,3,4
+RM1372,56,No,Travel_Rarely,Sales,5,Marketing,Female,2,Sales Executive,1,5380,3,0
+RM1442,56,No,Non-Travel,Research & Development,4,Life Sciences,Male,2,Healthcare Representative,3,6306,4,13
+RM1445,56,Yes,Travel_Rarely,Research & Development,2,Technical Degree,Male,1,Laboratory Technician,3,2339,3,10
+RM164,57,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,3,Healthcare Representative,4,9439,3,5
+RM361,57,No,Travel_Rarely,Research & Development,4,Medical,Male,2,Healthcare Representative,3,6755,3,3
+RM425,57,No,Travel_Rarely,Sales,3,Marketing,Male,4,Manager,4,14118,3,1
+RM1054,57,No,Travel_Rarely,Research & Development,2,Life Sciences,Male,2,Research Scientist,3,4900,4,12
+RM099,58,No,Travel_Rarely,Sales,4,Medical,Male,4,Sales Executive,3,13872,3,37
+RM127,58,Yes,Travel_Rarely,Research & Development,4,Medical,Female,3,Healthcare Representative,4,10312,3,40
+RM158,58,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Research Scientist,2,3346,4,1
+RM309,58,No,Non-Travel,Research & Development,4,Life Sciences,Male,2,Healthcare Representative,3,5660,3,5
+RM596,58,Yes,Travel_Rarely,Research & Development,4,Life Sciences,Male,5,Research Director,2,19246,3,31
+RM661,58,Yes,Travel_Frequently,Research & Development,1,Life Sciences,Male,1,Laboratory Technician,4,2380,3,1
+RM675,58,No,Travel_Rarely,Research & Development,3,Technical Degree,Female,3,Healthcare Representative,2,10552,3,6
+RM701,58,Yes,Travel_Rarely,Research & Development,3,Technical Degree,Male,1,Research Scientist,3,2479,4,1
+RM939,58,No,Travel_Rarely,Research & Development,4,Life Sciences,Male,1,Research Scientist,3,2372,3,2
+RM967,58,Yes,Travel_Rarely,Research & Development,4,Medical,Female,3,Manufacturing Director,1,10008,3,10
+RM1010,58,No,Travel_Rarely,Research & Development,3,Medical,Female,5,Research Director,1,19701,4,9
+RM1302,58,No,Non-Travel,Sales,3,Medical,Male,4,Manager,2,16291,4,16
+RM1311,58,No,Travel_Frequently,Research & Development,4,Life Sciences,Male,4,Research Director,3,15787,3,2
+RM1375,58,No,Travel_Rarely,Sales,3,Life Sciences,Female,4,Manager,4,17875,3,1
+RM007,59,No,Travel_Rarely,Research & Development,3,Medical,Female,1,Laboratory Technician,1,2670,4,1
+RM064,59,No,Travel_Rarely,Sales,3,Life Sciences,Female,3,Sales Executive,1,7637,3,21
+RM071,59,No,Travel_Frequently,Sales,1,Life Sciences,Female,2,Sales Executive,3,5473,3,4
+RM106,59,No,Non-Travel,Human Resources,4,Human Resources,Female,5,Manager,4,18844,4,3
+RM226,59,No,Travel_Rarely,Research & Development,3,Life Sciences,Male,1,Research Scientist,4,2177,3,1
+RM233,59,No,Travel_Rarely,Human Resources,2,Medical,Male,1,Human Resources,3,2267,3,2
+RM744,59,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,4,Manufacturing Director,4,13726,3,5
+RM759,59,No,Travel_Rarely,Sales,2,Technical Degree,Male,3,Manager,4,11904,3,6
+RM898,59,No,Travel_Rarely,Sales,3,Life Sciences,Female,2,Sales Executive,4,5171,3,6
+RM920,59,No,Travel_Rarely,Research & Development,4,Medical,Male,3,Manufacturing Director,4,10512,3,9
+RM412,60,No,Travel_Rarely,Research & Development,3,Life Sciences,Female,5,Manager,1,19566,3,29
+RM428,60,No,Travel_Frequently,Sales,3,Marketing,Female,3,Sales Executive,1,10266,3,18
+RM537,60,No,Travel_Rarely,Sales,4,Marketing,Male,2,Sales Executive,1,5405,3,2
+RM880,60,No,Travel_Rarely,Sales,4,Marketing,Male,2,Sales Executive,4,5220,3,11
+RM1210,60,No,Travel_Rarely,Research & Development,4,Medical,Male,3,Healthcare Representative,4,10883,4,1
