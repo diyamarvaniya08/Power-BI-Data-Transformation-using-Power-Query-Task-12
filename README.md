@@ -1,5 +1,5 @@
- Power BI-Data-Transformation-using-Power-Query-Task-12
-This project focuses on Skill in real-world data shaping before dashboarding. This task helps me to understand & analyzing employee attrition using an HR analytics dataset. The objective is to understand key factors influencing employee turnover and present meaningful insights through an interactive Power BI dashboard. 
+# Power BI-Data-Transformation-using-Power-Query-Task-12 
+   This project focuses on Skill in real-world data shaping before dashboarding. This task helps me to understand & analyzing employee attrition using an HR analytics dataset. The objective is to understand key      factors influencing employee turnover and present meaningful insights through an interactive Power BI dashboard. 
 
 # Dataset Used
   - HR_Analytics_Task12.csv
